@@ -1,0 +1,4702 @@
+{
+    "t": "GUILD_CREATE",
+    "s": 3,
+    "op": 0,
+    "d": {
+        "voice_states": [],
+        "premium_subscription_count": 14,
+        "guild_scheduled_events": [],
+        "name": "Discord API",
+        "discovery_splash": null,
+        "features": [
+            "ANIMATED_ICON",
+            "VIP_REGIONS",
+            "ANIMATED_BANNER",
+            "PREVIEW_ENABLED",
+            "VANITY_URL",
+            "THREADS_ENABLED",
+            "INVITE_SPLASH",
+            "ROLE_ICONS",
+            "MEMBER_VERIFICATION_GATE_ENABLED",
+            "THREE_DAY_THREAD_ARCHIVE",
+            "COMMUNITY",
+            "BANNER",
+            "NEW_THREAD_PERMISSIONS",
+            "NEWS",
+            "WELCOME_SCREEN_ENABLED",
+            "SEVEN_DAY_THREAD_ARCHIVE",
+            "PRIVATE_THREADS",
+            "MEMBER_PROFILES"
+        ],
+        "members": [
+            {
+                "user": {
+                    "username": "bV",
+                    "public_flags": 512,
+                    "id": "155020151320870912",
+                    "discriminator": "1337",
+                    "bot": false,
+                    "avatar": "97c8f94b5468f9b9da056e75ba2872e5"
+                },
+                "roles": [],
+                "premium_since": null,
+                "pending": false,
+                "nick": null,
+                "mute": false,
+                "joined_at": "2018-07-22T19:16:13.134000+00:00",
+                "flags": 0,
+                "deaf": false,
+                "communication_disabled_until": null,
+                "avatar": null
+            },
+            {
+                "user": {
+                    "username": "Fennec The Kitsune King",
+                    "public_flags": 64,
+                    "id": "338001706833018883",
+                    "discriminator": "6652",
+                    "bot": false,
+                    "avatar": "fc493ddff193e6a04c64a368521ba080"
+                },
+                "roles": [],
+                "premium_since": null,
+                "pending": false,
+                "nick": null,
+                "mute": false,
+                "joined_at": "2022-03-05T14:53:02.860000+00:00",
+                "flags": 0,
+                "deaf": false,
+                "communication_disabled_until": null,
+                "avatar": null
+            },
+            {
+                "user": {
+                    "username": "Dalwy",
+                    "public_flags": 640,
+                    "id": "158268793615941632",
+                    "discriminator": "0001",
+                    "bot": false,
+                    "avatar": "a_25d166564a24cd5738c25928362cadda"
+                },
+                "roles": [],
+                "premium_since": null,
+                "pending": false,
+                "nick": "Lucifer",
+                "mute": false,
+                "joined_at": "2018-01-16T09:06:10.482000+00:00",
+                "flags": 0,
+                "deaf": false,
+                "communication_disabled_until": null,
+                "avatar": null
+            },
+            {
+                "user": {
+                    "username": "kyoya",
+                    "public_flags": 512,
+                    "id": "298454523624554501",
+                    "discriminator": "1101",
+                    "bot": false,
+                    "avatar": "a_8133517d17c39d0a32f2276e77b0f06f"
+                },
+                "roles": [],
+                "premium_since": null,
+                "pending": false,
+                "nick": null,
+                "mute": false,
+                "joined_at": "2021-11-05T11:37:29.357000+00:00",
+                "flags": 0,
+                "deaf": false,
+                "communication_disabled_until": null,
+                "avatar": null
+            },
+            {
+                "user": {
+                    "username": "Cereal",
+                    "public_flags": 640,
+                    "id": "104628928781496320",
+                    "discriminator": "3647",
+                    "bot": false,
+                    "avatar": "7a1a53087391f4c6fa588cccf63b885f"
+                },
+                "roles": [],
+                "premium_since": null,
+                "pending": false,
+                "nick": null,
+                "mute": false,
+                "joined_at": "2018-09-01T22:38:09.401000+00:00",
+                "flags": 0,
+                "deaf": false,
+                "communication_disabled_until": null,
+                "avatar": null
+            },
+            {
+                "user": {
+                    "username": "xeph",
+                    "public_flags": 64,
+                    "id": "270932689756880897",
+                    "discriminator": "9319",
+                    "bot": false,
+                    "avatar": "e2c02f1a2f376cbcc9ec8c5eb1e374cc"
+                },
+                "roles": [],
+                "premium_since": null,
+                "pending": false,
+                "nick": null,
+                "mute": false,
+                "joined_at": "2017-06-09T18:36:17.029000+00:00",
+                "flags": 0,
+                "deaf": false,
+                "communication_disabled_until": null,
+                "avatar": null
+            },
+            {
+                "user": {
+                    "username": "Zane",
+                    "public_flags": 256,
+                    "id": "608143610415939638",
+                    "discriminator": "0691",
+                    "bot": false,
+                    "avatar": "bb768f5832e5a75bb9ec1d1dff5ea222"
+                },
+                "roles": [],
+                "premium_since": null,
+                "pending": false,
+                "nick": null,
+                "mute": false,
+                "joined_at": "2022-02-02T04:22:37.330000+00:00",
+                "flags": 0,
+                "deaf": false,
+                "communication_disabled_until": null,
+                "avatar": null
+            },
+            {
+                "user": {
+                    "username": "TheGearedJuan",
+                    "public_flags": 0,
+                    "id": "310439244093194240",
+                    "discriminator": "0673",
+                    "bot": false,
+                    "avatar": "8448bfe233b7fe5946d3a84c9c7c743a"
+                },
+                "roles": [],
+                "premium_since": null,
+                "pending": false,
+                "nick": null,
+                "mute": false,
+                "joined_at": "2019-03-28T05:08:13.340000+00:00",
+                "flags": 0,
+                "deaf": false,
+                "communication_disabled_until": null,
+                "avatar": null
+            },
+            {
+                "user": {
+                    "username": "xdk1235",
+                    "public_flags": 0,
+                    "id": "312559012346331156",
+                    "discriminator": "7777",
+                    "bot": false,
+                    "avatar": "a_7eebe47b0721fbb612eebd0cc2e09866"
+                },
+                "roles": [],
+                "premium_since": null,
+                "pending": false,
+                "nick": null,
+                "mute": false,
+                "joined_at": "2020-10-20T06:14:03.361000+00:00",
+                "flags": 0,
+                "deaf": false,
+                "communication_disabled_until": null,
+                "avatar": null
+            },
+            {
+                "user": {
+                    "username": "Neuxz",
+                    "public_flags": 0,
+                    "id": "136790292799029248",
+                    "discriminator": "6356",
+                    "bot": false,
+                    "avatar": "1e5a92ace7cf0840adf83b64134ba8e5"
+                },
+                "roles": [],
+                "premium_since": null,
+                "pending": false,
+                "nick": null,
+                "mute": false,
+                "joined_at": "2017-05-01T14:53:15.860000+00:00",
+                "flags": 0,
+                "deaf": false,
+                "communication_disabled_until": null,
+                "avatar": null
+            },
+            {
+                "user": {
+                    "username": "TommyTactical",
+                    "public_flags": 64,
+                    "id": "569433049742442496",
+                    "discriminator": "3602",
+                    "bot": false,
+                    "avatar": "a_1831a36864ff0141e576eb9e190fddda"
+                },
+                "roles": [],
+                "premium_since": null,
+                "pending": false,
+                "nick": null,
+                "mute": false,
+                "joined_at": "2019-06-10T09:57:29.714000+00:00",
+                "flags": 0,
+                "deaf": false,
+                "communication_disabled_until": null,
+                "avatar": null
+            },
+            {
+                "user": {
+                    "username": "Nicklaus",
+                    "public_flags": 128,
+                    "id": "561923789152190466",
+                    "discriminator": "5688",
+                    "bot": false,
+                    "avatar": "87a478ab0226b89335907c13d2545c57"
+                },
+                "roles": [
+                    "187243420924903424",
+                    "187243462599507968",
+                    "238388552663171072"
+                ],
+                "premium_since": null,
+                "pending": false,
+                "nick": null,
+                "mute": false,
+                "joined_at": "2021-02-20T20:18:42.912000+00:00",
+                "flags": 0,
+                "deaf": false,
+                "communication_disabled_until": null,
+                "avatar": null
+            },
+            {
+                "user": {
+                    "username": "average.panda",
+                    "public_flags": 0,
+                    "id": "237217657907183618",
+                    "discriminator": "3951",
+                    "bot": false,
+                    "avatar": "702d6d3bee49be2614a3d016ff8ab798"
+                },
+                "roles": [],
+                "premium_since": null,
+                "pending": false,
+                "nick": null,
+                "mute": false,
+                "joined_at": "2017-09-17T09:15:39.069000+00:00",
+                "flags": 0,
+                "deaf": false,
+                "communication_disabled_until": null,
+                "avatar": null
+            },
+            {
+                "user": {
+                    "username": "SG14",
+                    "public_flags": 256,
+                    "id": "197908496052649984",
+                    "discriminator": "4928",
+                    "bot": false,
+                    "avatar": "58eec60509bed5c1305ba0ae24a371af"
+                },
+                "roles": [],
+                "premium_since": null,
+                "pending": false,
+                "nick": null,
+                "mute": false,
+                "joined_at": "2019-03-22T06:47:31.812000+00:00",
+                "flags": 0,
+                "deaf": false,
+                "communication_disabled_until": null,
+                "avatar": null
+            },
+            {
+                "user": {
+                    "username": "jaded",
+                    "public_flags": 64,
+                    "id": "231273080469716992",
+                    "discriminator": "4225",
+                    "bot": false,
+                    "avatar": "722426c33c6204f4618dbb83225d8fab"
+                },
+                "roles": [],
+                "premium_since": null,
+                "pending": false,
+                "nick": null,
+                "mute": false,
+                "joined_at": "2018-02-06T18:37:23.798000+00:00",
+                "flags": 0,
+                "deaf": false,
+                "communication_disabled_until": null,
+                "avatar": null
+            }
+        ],
+        "joined_at": "2019-01-01T01:01:01.000000+00:00",
+        "vanity_url_code": null,
+        "afk_timeout": 300,
+        "stage_instances": [],
+        "emojis": [],
+        "verification_level": 0,
+        "icon": "a363a84e969bcbe1353eb2fdfb2e50e6",
+        "stickers": [],
+        "member_count": 15,
+        "max_members": 500000,
+        "guild_hashes": {
+            "version": 1,
+            "roles": {
+                "omitted": false,
+                "hash": "18UV5HSgeoY"
+            },
+            "metadata": {
+                "omitted": false,
+                "hash": "SHQkIXVPC4A"
+            },
+            "channels": {
+                "omitted": false,
+                "hash": "SCmg6oXQa9c"
+            }
+        },
+        "splash": null,
+        "large": false,
+        "default_message_notifications": 1,
+        "lazy": true,
+        "nsfw": false,
+        "threads": [],
+        "premium_progress_bar_enabled": false,
+        "afk_channel_id": null,
+        "unavailable": false,
+        "public_updates_channel_id": null,
+        "presences": [],
+        "nsfw_level": 0,
+        "premium_tier": 0,
+        "embedded_activities": [],
+        "id": "515260097702789121",
+        "application_command_counts": {
+            "1": 10
+        },
+        "description": null,
+        "system_channel_id": "515260098377941014",
+        "mfa_level": 0,
+        "preferred_locale": "en-US",
+        "owner_id": "263777342210572298",
+        "rules_channel_id": null,
+        "roles": [
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 4,
+                "permissions": "4294967296",
+                "name": "<4",
+                "mentionable": false,
+                "managed": false,
+                "id": "591093432123129887",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 14,
+                "permissions": "4294967808",
+                "name": "serenity dev",
+                "mentionable": false,
+                "managed": false,
+                "id": "325693277154181122",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 39,
+                "permissions": "4294967808",
+                "name": "Island Bot",
+                "mentionable": false,
+                "managed": false,
+                "id": "241254019488546816",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 15105570
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 5,
+                "permissions": "4294967296",
+                "name": "hates dogs",
+                "mentionable": false,
+                "managed": false,
+                "id": "392478113046593537",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 3553598
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 11,
+                "permissions": "4399156928",
+                "name": "new role",
+                "mentionable": false,
+                "managed": false,
+                "id": "501395001243336706",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 56,
+                "permissions": "1225673010918",
+                "name": "Mods",
+                "mentionable": false,
+                "managed": false,
+                "id": "175643578071121920",
+                "icon": null,
+                "hoist": true,
+                "flags": 0,
+                "color": 4571114
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 41,
+                "permissions": "4294967808",
+                "name": "Contributor Bots",
+                "mentionable": false,
+                "managed": false,
+                "id": "159592059873787904",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 16415615
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 37,
+                "permissions": "4294967808",
+                "name": "Don't Prune",
+                "mentionable": false,
+                "managed": false,
+                "id": "158459375722299392",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 42,
+                "permissions": "4294967808",
+                "name": "The Fallen",
+                "mentionable": false,
+                "managed": false,
+                "id": "213101959333281793",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 11027200
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 33,
+                "permissions": "4294967808",
+                "name": "discord.py news",
+                "mentionable": false,
+                "managed": false,
+                "id": "187053776920641536",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 12,
+                "permissions": "4295230016",
+                "name": "coxir updates",
+                "mentionable": false,
+                "managed": false,
+                "id": "438030787523117066",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 51,
+                "permissions": "4294967808",
+                "name": "Muted",
+                "mentionable": false,
+                "managed": false,
+                "id": "257017090932867072",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 0,
+                "permissions": "966471831232",
+                "name": "@everyone",
+                "mentionable": false,
+                "managed": false,
+                "id": "81384788765712384",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 58,
+                "permissions": "4294967296",
+                "name": "VoltyVolt",
+                "mentionable": true,
+                "managed": false,
+                "id": "288581540080910336",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 18,
+                "permissions": "4294967808",
+                "name": "sword updates",
+                "mentionable": false,
+                "managed": false,
+                "id": "280875402220797952",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 17,
+                "permissions": "4294967808",
+                "name": "discord.py rewrite",
+                "mentionable": false,
+                "managed": false,
+                "id": "281523439271936001",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 23,
+                "permissions": "4294967808",
+                "name": "disco updates",
+                "mentionable": false,
+                "managed": false,
+                "id": "233981945279807488",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 59,
+                "permissions": "6442451528",
+                "name": "Admin",
+                "mentionable": false,
+                "managed": false,
+                "id": "158331219535331328",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 1,
+                "permissions": "4294967296",
+                "name": "everyone",
+                "mentionable": true,
+                "managed": false,
+                "id": "202853174959144960",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 15277667
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 46,
+                "permissions": "107374182912",
+                "name": "Bourgeoisie",
+                "mentionable": false,
+                "managed": false,
+                "id": "387761284839636993",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 2123412
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 26,
+                "permissions": "4294967808",
+                "name": "eris updates",
+                "mentionable": false,
+                "managed": false,
+                "id": "189057425297506304",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 8,
+                "permissions": "4294967296",
+                "name": "discljord updates",
+                "mentionable": false,
+                "managed": false,
+                "id": "599307515016118276",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 25,
+                "permissions": "4294967808",
+                "name": "eris dev-updates",
+                "mentionable": false,
+                "managed": false,
+                "id": "226252718635876362",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 35,
+                "permissions": "4294967808",
+                "name": "discord.net news",
+                "mentionable": false,
+                "managed": false,
+                "id": "187056258908422144",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 38,
+                "permissions": "4294967808",
+                "name": "Music Bots",
+                "mentionable": false,
+                "managed": false,
+                "id": "159793968912007178",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 43,
+                "permissions": "4324327936",
+                "name": "Discord Employee",
+                "mentionable": false,
+                "managed": false,
+                "id": "103548914652696576",
+                "icon": "af3c0e3a5b00a29d5435bb22d46a447b",
+                "hoist": false,
+                "flags": 0,
+                "color": 7506394
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 47,
+                "permissions": "107478896193",
+                "name": "Jake's Purple",
+                "mentionable": false,
+                "managed": false,
+                "id": "283433999991439361",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 10181046
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 22,
+                "permissions": "4294967808",
+                "name": "discordia news",
+                "mentionable": false,
+                "managed": false,
+                "id": "238388552663171072",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {
+                    "premium_subscriber": null
+                },
+                "position": 49,
+                "permissions": "4294967296",
+                "name": "Nitro Booster",
+                "mentionable": false,
+                "managed": true,
+                "id": "585569508501094449",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 16023551
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 52,
+                "permissions": "4294967808",
+                "name": "No Images",
+                "mentionable": false,
+                "managed": false,
+                "id": "254077236989132800",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 2,
+                "permissions": "4294967296",
+                "name": "here",
+                "mentionable": true,
+                "managed": false,
+                "id": "202853215228657664",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 15277667
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 50,
+                "permissions": "4294967808",
+                "name": "General Muted",
+                "mentionable": false,
+                "managed": false,
+                "id": "270610430060265472",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 20,
+                "permissions": "4294967808",
+                "name": "restcord updates",
+                "mentionable": false,
+                "managed": false,
+                "id": "272591716106764288",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 15,
+                "permissions": "4294967808",
+                "name": "nostrum design",
+                "mentionable": false,
+                "managed": false,
+                "id": "291196901095899146",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 55,
+                "permissions": "1105312359046",
+                "name": "Mod Bots",
+                "mentionable": false,
+                "managed": false,
+                "id": "81793792671232000",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 16415615
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 19,
+                "permissions": "4294967808",
+                "name": "dsharpplus update",
+                "mentionable": false,
+                "managed": false,
+                "id": "273449750873767947",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 10,
+                "permissions": "4295230016",
+                "name": "discord.jl updates",
+                "mentionable": false,
+                "managed": false,
+                "id": "510786765649608715",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 27,
+                "permissions": "4294967808",
+                "name": "flowchart",
+                "mentionable": false,
+                "managed": false,
+                "id": "224204725199831040",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 24,
+                "permissions": "4294967808",
+                "name": "discordcr news",
+                "mentionable": false,
+                "managed": false,
+                "id": "229358154608017408",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 45,
+                "permissions": "107374707200",
+                "name": "Library Devs",
+                "mentionable": false,
+                "managed": false,
+                "id": "103548885602942976",
+                "icon": null,
+                "hoist": true,
+                "flags": 0,
+                "color": 4571114
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 9,
+                "permissions": "4295230016",
+                "name": "disgord releases",
+                "mentionable": false,
+                "managed": false,
+                "id": "533368703534891033",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 16,
+                "permissions": "4294967808",
+                "name": "nostrum updates",
+                "mentionable": false,
+                "managed": false,
+                "id": "291196872549335040",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 40,
+                "permissions": "4294967808",
+                "name": "Proficient",
+                "mentionable": false,
+                "managed": false,
+                "id": "209033538329116682",
+                "icon": null,
+                "hoist": true,
+                "flags": 0,
+                "color": 6677617
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 21,
+                "permissions": "512",
+                "name": "serenity updates",
+                "mentionable": false,
+                "managed": false,
+                "id": "253640316547104778",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 36,
+                "permissions": "4294967808",
+                "name": "User Bots",
+                "mentionable": false,
+                "managed": false,
+                "id": "178558252869484544",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 30,
+                "permissions": "4294967808",
+                "name": "discord.js contrib",
+                "mentionable": false,
+                "managed": false,
+                "id": "187243462599507968",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 7,
+                "permissions": "4294967296",
+                "name": "dimscord news",
+                "mentionable": false,
+                "managed": false,
+                "id": "743384158428069958",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 28,
+                "permissions": "4294967808",
+                "name": "discord.py design",
+                "mentionable": false,
+                "managed": false,
+                "id": "193919384459280384",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": "💩",
+                "tags": {},
+                "position": 3,
+                "permissions": "4294967296",
+                "name": "Trash",
+                "mentionable": false,
+                "managed": false,
+                "id": "333371069492625414",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 5844993
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 31,
+                "permissions": "4294967808",
+                "name": "discord.js updates",
+                "mentionable": false,
+                "managed": false,
+                "id": "187243420924903424",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 57,
+                "permissions": "4294967296",
+                "name": "Top Mod (Ping for help)",
+                "mentionable": true,
+                "managed": false,
+                "id": "633839959719280641",
+                "icon": null,
+                "hoist": true,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 29,
+                "permissions": "4294967808",
+                "name": "discordrb news",
+                "mentionable": false,
+                "managed": false,
+                "id": "187250616341495808",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 6,
+                "permissions": "0",
+                "name": "twilight releases",
+                "mentionable": false,
+                "managed": false,
+                "id": "890599358117064714",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 44,
+                "permissions": "107374182912",
+                "name": "Contributors",
+                "mentionable": false,
+                "managed": false,
+                "id": "111173097888993280",
+                "icon": null,
+                "hoist": true,
+                "flags": 0,
+                "color": 2464410
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 48,
+                "permissions": "107374182912",
+                "name": "Snowflake Alert",
+                "mentionable": false,
+                "managed": false,
+                "id": "264527809005748225",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 16738740
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 34,
+                "permissions": "4294967808",
+                "name": "discord.net dev",
+                "mentionable": false,
+                "managed": false,
+                "id": "187052163929735168",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 32,
+                "permissions": "4294967808",
+                "name": "discordphp updates",
+                "mentionable": false,
+                "managed": false,
+                "id": "187091939382919168",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 13,
+                "permissions": "4294967808",
+                "name": "sword rewrite",
+                "mentionable": false,
+                "managed": false,
+                "id": "414986181390893070",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 54,
+                "permissions": "1224472535591",
+                "name": "Honorary Mod",
+                "mentionable": false,
+                "managed": false,
+                "id": "230434397831036928",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            },
+            {
+                "unicode_emoji": null,
+                "tags": {},
+                "position": 53,
+                "permissions": "4294967808",
+                "name": "No Emojis",
+                "mentionable": false,
+                "managed": false,
+                "id": "242282209153646592",
+                "icon": null,
+                "hoist": false,
+                "flags": 0,
+                "color": 0
+            }
+        ],
+        "max_video_channel_users": 25,
+        "application_id": null,
+        "explicit_content_filter": 0,
+        "banner": null,
+        "system_channel_flags": 0,
+        "region": "deprecated",
+        "hub_type": null,
+        "channels": [
+            {
+                "type": 0,
+                "topic": "Dev: <@78213970795700224>\nGitHub: https://github.com/qeled/discordie\nDocumentation: http://qeled.github.io/discordie/\nAudio streaming example: https://github.com/qeled/discordie/blob/master/examples/massive.js\n`npm install qeled/discordie`",
+                "rate_limit_per_user": 0,
+                "position": 48,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "1024",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "1024",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "78213970795700224",
+                        "deny": "0",
+                        "allow": "805307409"
+                    }
+                ],
+                "parent_id": "435922373095456769",
+                "name": "js_discordie",
+                "last_message_id": "947177308903587891",
+                "id": "381889508708188170",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": "https://github.com/twilight-rs/twilight\nPowerful, flexible, and scalable ecosystem of libraries.\n\nDocumentation: https://api.twilight.rs\nVisit our homepage: https://twilight.rs\nJoin the conversation: https://discord.gg/twilight-rs",
+                "rate_limit_per_user": 0,
+                "position": 34,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "103079216128",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "77469400222932992",
+                        "deny": "2147614720",
+                        "allow": "805317648"
+                    },
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "0",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81793792671232000",
+                        "deny": "0",
+                        "allow": "3072"
+                    }
+                ],
+                "parent_id": "356501730453880832",
+                "name": "rust_twilight",
+                "last_pin_timestamp": "2021-09-23T13:56:38+00:00",
+                "last_message_id": "992793501702041730",
+                "id": "890493812672184330",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": "go module for Discord interaction https://git.io/disgord",
+                "rate_limit_per_user": 5,
+                "position": 19,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "103079216128",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "228846961774559232",
+                        "deny": "0",
+                        "allow": "805317649"
+                    },
+                    {
+                        "type": 1,
+                        "id": "499867389987389443",
+                        "deny": "2112",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "0",
+                        "allow": "3072"
+                    },
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81793792671232000",
+                        "deny": "0",
+                        "allow": "3072"
+                    }
+                ],
+                "parent_id": "356501730453880832",
+                "name": "go_disgord",
+                "last_message_id": "992801203715059724",
+                "id": "510760436925464596",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": null,
+                "rate_limit_per_user": 0,
+                "position": 38,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81793792671232000",
+                        "deny": "0",
+                        "allow": "3072"
+                    },
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "103079216128",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "3072",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "356501730453880832",
+                "name": "prototype-lib-channel",
+                "last_message_id": null,
+                "id": "381887322641137676",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": null,
+                "rate_limit_per_user": 0,
+                "position": 10,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "175643578071121920",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "1024",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81793792671232000",
+                        "deny": "0",
+                        "allow": "1024"
+                    }
+                ],
+                "parent_id": "356505753588203520",
+                "name": "mods",
+                "last_pin_timestamp": "2020-08-30T20:01:03.067000+00:00",
+                "last_message_id": "992855199091793931",
+                "id": "650136538264502282",
+                "flags": 0
+            },
+            {
+                "type": 4,
+                "position": 0,
+                "permission_overwrites": [],
+                "name": "Information",
+                "id": "356505375207456768",
+                "flags": 0
+            },
+            {
+                "type": 4,
+                "position": 3,
+                "permission_overwrites": [],
+                "name": "Libs",
+                "id": "356501730453880832",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": "<:julia:511658283090706453> \"?sub updates\" to receive updates about the library.\nLibrary: https://github.com/Xh4H/Discord.jl\nMaintainers: <@191442101135867906>, <@186160905262727168>\nJulia: https://julialang.org",
+                "rate_limit_per_user": 0,
+                "position": 25,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "103079216128",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "159592059873787904",
+                        "deny": "0",
+                        "allow": "3072"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81793792671232000",
+                        "deny": "0",
+                        "allow": "3072"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "0",
+                        "allow": "3072"
+                    },
+                    {
+                        "type": 1,
+                        "id": "191442101135867906",
+                        "deny": "131072",
+                        "allow": "805698641"
+                    },
+                    {
+                        "type": 1,
+                        "id": "186160905262727168",
+                        "deny": "131072",
+                        "allow": "805698641"
+                    },
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "178558252869484544",
+                        "deny": "3072",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "356501730453880832",
+                "name": "julia_discord-jl",
+                "last_message_id": "992799503943999680",
+                "id": "510609446225969162",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": null,
+                "rate_limit_per_user": 0,
+                "position": 44,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "2048",
+                        "allow": "66560"
+                    },
+                    {
+                        "type": 1,
+                        "id": "80528701850124288",
+                        "deny": "0",
+                        "allow": "93184"
+                    }
+                ],
+                "parent_id": "356506185484206100",
+                "name": "starboard",
+                "last_message_id": "991079163475656704",
+                "id": "437410517242609684",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": "Docs: https://kraigie.github.io/nostrum/\nGithub: https://github.com/Kraigie/nostrum\n\nLearning Elixir:\nOfficial Docs - https://hexdocs.pm/elixir\nOfficial Site - http://elixir-lang.org/getting-started/introduction.html\nElixir School - https://elixirschool.com/",
+                "rate_limit_per_user": 0,
+                "position": 17,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "103079216128",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "196989358165852160",
+                        "deny": "0",
+                        "allow": "805306384"
+                    },
+                    {
+                        "type": 1,
+                        "id": "89918932789497856",
+                        "deny": "0",
+                        "allow": "805316625"
+                    },
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "0",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "356501730453880832",
+                "name": "elixir_nostrum",
+                "last_pin_timestamp": "2018-03-24T15:35:27.886000+00:00",
+                "last_message_id": "993103070588313640",
+                "id": "381889573426429952",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": null,
+                "rate_limit_per_user": 0,
+                "position": 40,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "81793792671232000",
+                        "deny": "0",
+                        "allow": "3136"
+                    },
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "103079216128",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "92271879783469056",
+                        "deny": "137438953472",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "86699011792191488",
+                        "deny": "0",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "0",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "356505966201798656",
+                "name": "testing",
+                "last_message_id": "993101829284048956",
+                "id": "381896832399310868",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": "Documentation: https://abal.moe/Eris/\nGitHub: https://github.com/abalabahaha/eris\nServer: https://discord.gg/eris\nType `?sub updates` to subscribe to updates\n\nDev: <@150061853001777154> <:abalAbal:214753204871757825>",
+                "rate_limit_per_user": 0,
+                "position": 24,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "111173097888993280",
+                        "deny": "0",
+                        "allow": "2048"
+                    },
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "103079216128",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "150061853001777154",
+                        "deny": "0",
+                        "allow": "805571665"
+                    },
+                    {
+                        "type": 1,
+                        "id": "442422537062711296",
+                        "deny": "1024",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "683053587215024213",
+                        "deny": "1024",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "428927840738869269",
+                        "deny": "1024",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "348607796335607817",
+                        "deny": "1024",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "153888864467943428",
+                        "deny": "805307409",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "498244879894315027",
+                        "deny": "2048",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "170903342199865344",
+                        "deny": "1024",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "215835288243666944",
+                        "deny": "0",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "175643578071121920",
+                        "deny": "0",
+                        "allow": "3072"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "0",
+                        "allow": "64"
+                    },
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "356501730453880832",
+                "nsfw": false,
+                "name": "js_eris",
+                "last_pin_timestamp": "2021-11-15T08:21:18+00:00",
+                "last_message_id": "993037831616352346",
+                "id": "381890266052689920",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": "<:php:232912360237432832> we are more active in our PHP discord - join below!\n\n**Documentation:** https://discord-php.github.io/DiscordPHP\n**DiscordPHP:** https://github.com/discord-php/DiscordPHP\n**DiscordPHP-Slash:** https://github.com/discord-php/DiscordPHP-Slash\n**PHP Discord:** https://discord.gg/dphp\n\n**Contributors:**\n<@78703938047582208>\n<@546366339422617602>\n<@116927250145869826>",
+                "rate_limit_per_user": 0,
+                "position": 29,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "103079216128",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81793792671232000",
+                        "deny": "0",
+                        "allow": "3072"
+                    },
+                    {
+                        "type": 1,
+                        "id": "78703938047582208",
+                        "deny": "0",
+                        "allow": "17985176592"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "0",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "356501730453880832",
+                "name": "php_discord-php",
+                "last_message_id": "992798911540514976",
+                "id": "795965753802227742",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": "GH -> https://github.com/b1naryth1ef/disco | Docs -> https://b1naryth1ef.github.io/disco/ | If you ask stupid questions without googling, shitpost, or act like an ass, you'll get blocked from the channel.",
+                "rate_limit_per_user": 0,
+                "position": 50,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "1088",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "103079216128",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "435922373095456769",
+                "name": "python_disco",
+                "last_message_id": "847189453247086663",
+                "id": "381890676654080001",
+                "flags": 0
+            },
+            {
+                "type": 4,
+                "position": 7,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "1049600",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "158331219535331328",
+                        "deny": "0",
+                        "allow": "1049600"
+                    }
+                ],
+                "name": "Dead Library",
+                "id": "435922373095456769",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": "Join our official server @ https://discord.gg/djs\nDocs: <https://discord.js.org/#/docs/>\nGuide: <https://discordjs.guide> \nUpdating to v13: <https://bit.ly/3jrZD1a>\n\nNPM: <https://npmjs.org/package/discord.js>\nGitHub: <https://github.com/discordjs/discord.js>",
+                "rate_limit_per_user": 0,
+                "position": 23,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "178558252869484544",
+                        "deny": "3072",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "266282285861437441",
+                        "deny": "0",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "476603965396746242",
+                        "deny": "3072",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "440580043203280906",
+                        "deny": "3072",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "0",
+                        "allow": "64"
+                    },
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "377957124160",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "472605868572147714",
+                        "deny": "2048",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "241860550882099201",
+                        "deny": "2048",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "111761808640978944",
+                        "deny": "2048",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "245648163837444097",
+                        "deny": "1024",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "270610430060265472",
+                        "deny": "2112",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "66564597481480192",
+                        "deny": "0",
+                        "allow": "805829713"
+                    },
+                    {
+                        "type": 1,
+                        "id": "83886770768314368",
+                        "deny": "0",
+                        "allow": "805314576"
+                    },
+                    {
+                        "type": 1,
+                        "id": "80528701850124288",
+                        "deny": "0",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "439205512425504771",
+                        "deny": "1024",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "486297649490952192",
+                        "deny": "2112",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "168248887721721856",
+                        "deny": "0",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "218348062828003328",
+                        "deny": "0",
+                        "allow": "121064399888"
+                    },
+                    {
+                        "type": 1,
+                        "id": "712439437220642878",
+                        "deny": "2112",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "422433314347941896",
+                        "deny": "1024",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "152450716709945345",
+                        "deny": "2112",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "382368885267234816",
+                        "deny": "2112",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "348607796335607817",
+                        "deny": "0",
+                        "allow": "805317632"
+                    },
+                    {
+                        "type": 1,
+                        "id": "281412467484000266",
+                        "deny": "2048",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "356501730453880832",
+                "nsfw": false,
+                "name": "js_discord-js",
+                "last_pin_timestamp": "2022-06-23T17:08:55+00:00",
+                "last_message_id": "993039181393711114",
+                "id": "381889950666457088",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": "Any questions regarding the Rust discord-wrapper library, Serenity, or even about Rust itself, should be asked here.\nIf you're looking for better assistance and/or want an enjoyable place to chat in, please join the serenity guild located at https://discord.gg/serenity-rs.\n\nRepository: https://github.com/serenity-rs/serenity\nCrates.io: https://crates.io/crates/serenity\nNotification feed: `?sub updates` and `?sub dev`\n\nLibrary Dev: <@110372470472613888>\nContributors: <@77469400222932992>\nProficients: <@117530756263182344>",
+                "rate_limit_per_user": 0,
+                "position": 33,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "103079218176",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "663858035436814370",
+                        "deny": "0",
+                        "allow": "805380112"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81793792671232000",
+                        "deny": "0",
+                        "allow": "8192"
+                    },
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "0",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "110372470472613888",
+                        "deny": "0",
+                        "allow": "805316624"
+                    }
+                ],
+                "parent_id": "356501730453880832",
+                "nsfw": false,
+                "name": "rust_serenity",
+                "last_pin_timestamp": "2021-05-05T14:52:49+00:00",
+                "last_message_id": "992793497428041758",
+                "id": "381889686257401866",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": "If you are interested in helping maintain, let me know.\n\n<:php:232912360237432832> https://restcord.com\n**Update Notifications:** Run `?sub updates`\n**GitHub:** https://github.com/restcord/restcord\n**Documentation:** https://restcord.com\n**PHP Tutorials:** http://phptherightway.com\n**Stable Version: None Yet**\n**Beta Version: v0.1.1**\n\nJoin the PHP Discord: https://discord.gg/0duG4FF1ElFGUFVq\n\nBranches:\n- `master` - Beta\n\nBugs and Features:\n- Please create a GitHub issue with reproducable steps if it is a bug.",
+                "rate_limit_per_user": 0,
+                "position": 30,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "318029017154322433",
+                        "deny": "1024",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "103079216128",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "108432868149035008",
+                        "deny": "131072",
+                        "allow": "805698641"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "0",
+                        "allow": "1088"
+                    },
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "356501730453880832",
+                "nsfw": false,
+                "name": "php_restcord",
+                "last_message_id": "992802156983898194",
+                "id": "381890305424883722",
+                "flags": 0
+            },
+            {
+                "type": 4,
+                "position": 5,
+                "permission_overwrites": [],
+                "name": "Logs",
+                "id": "356506185484206100",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": null,
+                "rate_limit_per_user": 0,
+                "position": 4,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "178558252869484544",
+                        "deny": "2112",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "230434397831036928",
+                        "deny": "0",
+                        "allow": "2112"
+                    },
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "103079218176",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "270610430060265472",
+                        "deny": "103079217216",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "80528701850124288",
+                        "deny": "0",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "168169809303961600",
+                        "deny": "0",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "0",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "175643578071121920",
+                        "deny": "0",
+                        "allow": "52288"
+                    },
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "356505557697560577",
+                "nsfw": false,
+                "name": "general",
+                "last_pin_timestamp": "2022-07-02T14:39:13+00:00",
+                "last_message_id": "993106465495724113",
+                "id": "381870553235193857",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": "**Latest stable**: 4.2.0\n**Latest nightly**: 4.3.0-nightly-01128\n\n**NuGet:** https://www.nuget.org/packages/DSharpPlus/\n**Repo:** https://github.com/DSharpPlus/DSharpPlus\n**Docs:** https://dsharpplus.github.io/\n**Issues:** https://github.com/DSharpPlus/DSharpPlus/issues/\n**Official Guild:** https://discord.gg/dsharpplus\n\nWant to stay up-to-date with lib development? Call ?sub update",
+                "rate_limit_per_user": 0,
+                "position": 15,
+                "permission_overwrites": [
+                    {
+                        "type": 1,
+                        "id": "300642079657426945",
+                        "deny": "2048",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "127408598010560513",
+                        "deny": "131072",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "329052793706905601",
+                        "deny": "0",
+                        "allow": "805698641"
+                    },
+                    {
+                        "type": 1,
+                        "id": "447835669310734349",
+                        "deny": "2112",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "550635683258171413",
+                        "deny": "0",
+                        "allow": "268443648"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "0",
+                        "allow": "64"
+                    },
+                    {
+                        "type": 1,
+                        "id": "327955834975813632",
+                        "deny": "2048",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "178558252869484544",
+                        "deny": "2048",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "336733686529654798",
+                        "deny": "0",
+                        "allow": "268640272"
+                    },
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "103607047383166976",
+                        "deny": "2048",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "153888864467943428",
+                        "deny": "2048",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "209279906280898562",
+                        "deny": "0",
+                        "allow": "268443664"
+                    },
+                    {
+                        "type": 1,
+                        "id": "176477523717259264",
+                        "deny": "0",
+                        "allow": "268443648"
+                    },
+                    {
+                        "type": 1,
+                        "id": "341606460720939008",
+                        "deny": "0",
+                        "allow": "2048"
+                    },
+                    {
+                        "type": 1,
+                        "id": "276042646693216258",
+                        "deny": "0",
+                        "allow": "805829713"
+                    },
+                    {
+                        "type": 1,
+                        "id": "228537642583588864",
+                        "deny": "2048",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "103079216128",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "259053800755691520",
+                        "deny": "0",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "203564417512636416",
+                        "deny": "2112",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "356501730453880832",
+                "nsfw": false,
+                "name": "dotnet_dsharpplus",
+                "last_pin_timestamp": "2022-03-18T15:42:09+00:00",
+                "last_message_id": "992883944850731078",
+                "id": "381890239171395595",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": "<:nim:575612971259002881> Discord Bot & REST Library for Nim.\nWhat's Nim? https://nim-lang.org\nNim info: `?tag nim`\n\nWritten by krisppurg (<@222794789567987712>)\n__GitHub:__ https://github.com/krisppurg/dimscord\n__Docs:__ https://krisppurg.github.io/dimscord\n__Wiki:__ https://github.com/krisppurg/dimscord/wiki\n\n__Guild Invite:__ https://discord.gg/dimscord\n__Nim Guild:__ https://discord.gg/nim\n\nDoc Cat: `doc help`\nDevelopment: `nimble install dimscord@#head`.\nUpdates and news: `?sub news`.",
+                "rate_limit_per_user": 0,
+                "position": 28,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "178558252869484544",
+                        "deny": "1024",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "80528701850124288",
+                        "deny": "0",
+                        "allow": "3072"
+                    },
+                    {
+                        "type": 1,
+                        "id": "745801595060617288",
+                        "deny": "0",
+                        "allow": "3072"
+                    },
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "103079216128",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "222794789567987712",
+                        "deny": "0",
+                        "allow": "106032397329"
+                    },
+                    {
+                        "type": 1,
+                        "id": "699969981714006127",
+                        "deny": "0",
+                        "allow": "805317648"
+                    },
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "105226702848",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 1,
+                        "id": "153888864467943428",
+                        "deny": "2048",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81793792671232000",
+                        "deny": "0",
+                        "allow": "11264"
+                    },
+                    {
+                        "type": 1,
+                        "id": "246769560403836928",
+                        "deny": "0",
+                        "allow": "2952803345"
+                    }
+                ],
+                "parent_id": "356501730453880832",
+                "nsfw": false,
+                "name": "nim_dimscord",
+                "last_pin_timestamp": "2021-08-26T20:46:59+00:00",
+                "last_message_id": "992895890429845624",
+                "id": "743302883327606885",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": null,
+                "rate_limit_per_user": 0,
+                "position": 39,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "0",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "103079216128",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "356505966201798656",
+                "name": "playground",
+                "last_message_id": "993104867994374194",
+                "id": "381896931724492800",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": "https://github.com/izy521/discord.io - https://www.npmjs.com/package/discord.io | https://www.gitbook.com/book/izy521/discord-io/details",
+                "rate_limit_per_user": 0,
+                "position": 47,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "1024",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "435922373095456769",
+                "name": "js_discord-io",
+                "last_pin_timestamp": "2017-12-05T14:04:11.599000+00:00",
+                "last_message_id": "435590474535927848",
+                "id": "381889476940529705",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": "Discord.Net 3.4.0 |\nRepo: https://github.com/discord-net/Discord.Net |\nDocs: https://discordnet.dev/ |\nCI Package Feed: https://www.myget.org/F/discord-net/api/v3/index.json |\nDiscord: https://discord.gg/dnet\n\nSubscribe to updates with: ?sub news / ?sub dev\n\nCurrent .Net Core blocking issues:\n(<=Win7) -> Use .NET Core ~> 2.1",
+                "rate_limit_per_user": 0,
+                "position": 14,
+                "permission_overwrites": [
+                    {
+                        "type": 1,
+                        "id": "496353518668742696",
+                        "deny": "1024",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "145584102551060480",
+                        "deny": "0",
+                        "allow": "8192"
+                    },
+                    {
+                        "type": 0,
+                        "id": "178558252869484544",
+                        "deny": "1024",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "300617495038132235",
+                        "deny": "64",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "103079216128",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "259053800755691520",
+                        "deny": "131072",
+                        "allow": "805316624"
+                    },
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "401477146511409183",
+                        "deny": "2048",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "328087342219001857",
+                        "deny": "0",
+                        "allow": "268436480"
+                    },
+                    {
+                        "type": 1,
+                        "id": "274366085011079169",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "0",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "66078337084162048",
+                        "deny": "0",
+                        "allow": "805314576"
+                    },
+                    {
+                        "type": 0,
+                        "id": "159592059873787904",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 1,
+                        "id": "85614143951892480",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 1,
+                        "id": "246770367350177793",
+                        "deny": "0",
+                        "allow": "805314576"
+                    },
+                    {
+                        "type": 1,
+                        "id": "111761808640978944",
+                        "deny": "2048",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "356501730453880832",
+                "nsfw": false,
+                "name": "dotnet_discord-net",
+                "last_pin_timestamp": "2022-06-02T21:46:29+00:00",
+                "last_message_id": "993085303260729405",
+                "id": "381889909113225237",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": "Kord Guild:  https://discord.gg/6jcx5ev\nDocs: https://kord.dev/\nGithub: https://github.com/kordlib/kord",
+                "rate_limit_per_user": 0,
+                "position": 26,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "81793792671232000",
+                        "deny": "0",
+                        "allow": "3072"
+                    },
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "112547982808715264",
+                        "deny": "2147614720",
+                        "allow": "805317648"
+                    },
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "103079216128",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "695549908383432716",
+                        "deny": "2147614720",
+                        "allow": "805317648"
+                    },
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "0",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "356501730453880832",
+                "name": "kotlin_kord",
+                "last_message_id": "992799043090665542",
+                "id": "862591509626617877",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": null,
+                "rate_limit_per_user": 0,
+                "position": 1,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "175643578071121920",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "2112",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "356505375207456768",
+                "name": "info",
+                "last_message_id": "381912103415447573",
+                "id": "381906085713281025",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": "<:crystal:232905855618514944> Use `?sub news` to subscribe to updates. Latest version: 0.4.0.\n\nGitHub: https://github.com/shardlab/discordcr\nDiscord: https://discord.gg/GbE5s8tmRY\nCrystal: https://crystal-lang.org/\nLatest Docs: https://dcr.shardlab.dev/master/\n0.4.0 Docs: https://dcr.shardlab.dev/v0.4.0/",
+                "rate_limit_per_user": 0,
+                "position": 12,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "0",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "117789813427535878",
+                        "deny": "0",
+                        "allow": "805314576"
+                    },
+                    {
+                        "type": 1,
+                        "id": "171764626755813376",
+                        "deny": "0",
+                        "allow": "805314576"
+                    },
+                    {
+                        "type": 1,
+                        "id": "66237334693085184",
+                        "deny": "0",
+                        "allow": "805306385"
+                    },
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "103079216128",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "209033538329116682",
+                        "deny": "0",
+                        "allow": "34359738368"
+                    }
+                ],
+                "parent_id": "356501730453880832",
+                "name": "crystal_discordcr",
+                "last_message_id": "992916727895691284",
+                "id": "381889335278043137",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": null,
+                "rate_limit_per_user": 0,
+                "position": 0,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "2112",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "356505375207456768",
+                "name": "rules",
+                "last_message_id": "642760494125678659",
+                "id": "381898062269775883",
+                "flags": 0
+            },
+            {
+                "user_limit": 10,
+                "type": 2,
+                "rtc_region": null,
+                "rate_limit_per_user": 0,
+                "position": 6,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "81793792671232000",
+                        "deny": "0",
+                        "allow": "1049600"
+                    },
+                    {
+                        "type": 0,
+                        "id": "103548914652696576",
+                        "deny": "0",
+                        "allow": "17826816"
+                    },
+                    {
+                        "type": 0,
+                        "id": "175643578071121920",
+                        "deny": "0",
+                        "allow": "1049600"
+                    },
+                    {
+                        "type": 0,
+                        "id": "387761284839636993",
+                        "deny": "0",
+                        "allow": "17826816"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "1049600",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "111173097888993280",
+                        "deny": "0",
+                        "allow": "17826816"
+                    },
+                    {
+                        "type": 0,
+                        "id": "159592059873787904",
+                        "deny": "0",
+                        "allow": "1049600"
+                    },
+                    {
+                        "type": 0,
+                        "id": "103548885602942976",
+                        "deny": "0",
+                        "allow": "17826816"
+                    }
+                ],
+                "parent_id": "356503376785309697",
+                "name": "API Gaming",
+                "last_message_id": null,
+                "id": "183361433059328000",
+                "flags": 0,
+                "bitrate": 128000
+            },
+            {
+                "type": 0,
+                "topic": null,
+                "rate_limit_per_user": 0,
+                "position": 9,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "1024",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "158331219535331328",
+                        "deny": "0",
+                        "allow": "1024"
+                    }
+                ],
+                "parent_id": "356505753588203520",
+                "name": "admin",
+                "last_message_id": "608945558404726784",
+                "id": "387417277273997313",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": "Latest version: 0.17.0\nMain Guild: https://discord.gg/5UH627u\nGithub: https://github.com/Katrix/AckCord\nDocs: https://ackcord.katsstuff.net/",
+                "rate_limit_per_user": 0,
+                "position": 35,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "81793792671232000",
+                        "deny": "0",
+                        "allow": "3072"
+                    },
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "109755047914573824",
+                        "deny": "0",
+                        "allow": "805309457"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "0",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "103079216128",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "356501730453880832",
+                "name": "scala_ackcord",
+                "last_message_id": "992890232670261299",
+                "id": "535177885636493342",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": "<:ruby:232899886419410945> <:rubytaco:315242245274075157> [Click to expand]\n**News**: Use **?sub news** to subscribe to discordrb news, such as new releases and breaking changes!\nGitHub link: https://github.com/shardlab/discordrb\n**Latest Version**: 3.4.0.\nDiscord: https://discord.gg/GbE5s8tmRY\nIf you need support, add your code using https://gist.github.com/.\nDocumentation: \nhttps://drb.shardlab.dev/v3.4.0/\nhttps://drb.shardlab.dev/main/\n\nTutorials: https://github.com/shardlab/discordrb/wiki.\n\nThis channel's Proficients are:\n - snapcase#0001 (83283213010599936)\n - Nekka#7415 (98476238531756032)\n - Snazzah#0371 (158049329150427136)\n - greenbigfrog#4461 (163607982473609216)",
+                "rate_limit_per_user": 0,
+                "position": 32,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "0",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "98476238531756032",
+                        "deny": "0",
+                        "allow": "8192"
+                    },
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "196464143090319360",
+                        "deny": "0",
+                        "allow": "2048"
+                    },
+                    {
+                        "type": 1,
+                        "id": "614259132807249960",
+                        "deny": "0",
+                        "allow": "2048"
+                    },
+                    {
+                        "type": 0,
+                        "id": "209033538329116682",
+                        "deny": "0",
+                        "allow": "34359738368"
+                    },
+                    {
+                        "type": 1,
+                        "id": "171764626755813376",
+                        "deny": "0",
+                        "allow": "805314576"
+                    },
+                    {
+                        "type": 1,
+                        "id": "66237334693085184",
+                        "deny": "0",
+                        "allow": "805306385"
+                    },
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "103079216128",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "178558252869484544",
+                        "deny": "2048",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "562086061153583122",
+                        "deny": "1024",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "117789813427535878",
+                        "deny": "0",
+                        "allow": "805314576"
+                    },
+                    {
+                        "type": 1,
+                        "id": "434294920065581057",
+                        "deny": "2048",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "356501730453880832",
+                "nsfw": false,
+                "name": "ruby_discordrb",
+                "last_pin_timestamp": "2021-02-05T06:38:52.608000+00:00",
+                "last_message_id": "993045599731589150",
+                "id": "381891448884428801",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": null,
+                "rate_limit_per_user": 0,
+                "position": 42,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "175643578071121920",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "1024",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81793792671232000",
+                        "deny": "0",
+                        "allow": "1024"
+                    }
+                ],
+                "parent_id": "356506185484206100",
+                "name": "bot-log",
+                "last_message_id": "976256779715477534",
+                "id": "580184108794380298",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": "https://discord4j.com\nGithub: https://github.com/Discord4J/Discord4J\nWe are most active on our Official Server: https://discord.gg/d4j\nDocs: https://docs.discord4j.com/\nLatest Version: 3.2.2",
+                "rate_limit_per_user": 0,
+                "position": 20,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "0",
+                        "allow": "2112"
+                    },
+                    {
+                        "type": 1,
+                        "id": "134127815531560960",
+                        "deny": "0",
+                        "allow": "268443664"
+                    },
+                    {
+                        "type": 1,
+                        "id": "84766711735136256",
+                        "deny": "0",
+                        "allow": "805314576"
+                    },
+                    {
+                        "type": 1,
+                        "id": "84745855399129088",
+                        "deny": "0",
+                        "allow": "805314577"
+                    },
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "103079216128",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "168248887721721856",
+                        "deny": "3072",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "356501730453880832",
+                "name": "java_discord4j",
+                "last_message_id": "992798319002779698",
+                "id": "381889438638407691",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": "Discord Gophers https://discord.gg/0f1SbxBZjYq9jLBk https://github.com/bwmarrin/discordgo\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ",
+                "rate_limit_per_user": 0,
+                "position": 18,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "64",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "103079216128",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "109112383011581952",
+                        "deny": "0",
+                        "allow": "805306385"
+                    },
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "356501730453880832",
+                "name": "go_discordgo",
+                "last_message_id": "992798241450107030",
+                "id": "381889600978681856",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": "【𝐂𝐥𝐢𝐜𝐤 𝐭𝐨 𝐄𝐱𝐩𝐚𝐧𝐝】:red_circle:\n**JDA Guild:** https://discord.gg/0hMr4ce0tIk3pSjp\n**Latest Release:** https://github.com/DV8FromTheWorld/JDA/releases/latest\n**Docs:** https://ci.dv8tion.net/job/JDA/javadoc/\n**Wiki**: https://github.com/DV8FromTheWorld/JDA/wiki\n**FAQ:** https://github.com/DV8FromTheWorld/JDA/wiki/10%29-FAQ\n**Github:** https://github.com/DV8FromTheWorld/JDA/\n**Download Server:** https://ci.dv8tion.net",
+                "rate_limit_per_user": 5,
+                "position": 22,
+                "permission_overwrites": [
+                    {
+                        "type": 1,
+                        "id": "420321485757087746",
+                        "deny": "0",
+                        "allow": "268445760"
+                    },
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "2147483648",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "243537961109553152",
+                        "deny": "1024",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "107562988810027008",
+                        "deny": "0",
+                        "allow": "805694545"
+                    },
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "80088516616269824",
+                        "deny": "262144",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "86699011792191488",
+                        "deny": "131072",
+                        "allow": "2953178193"
+                    },
+                    {
+                        "type": 1,
+                        "id": "111761808640978944",
+                        "deny": "0",
+                        "allow": "3072"
+                    },
+                    {
+                        "type": 0,
+                        "id": "202853174959144960",
+                        "deny": "0",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "150203841827045376",
+                        "deny": "0",
+                        "allow": "268445696"
+                    },
+                    {
+                        "type": 1,
+                        "id": "107490111414882304",
+                        "deny": "0",
+                        "allow": "10304"
+                    },
+                    {
+                        "type": 1,
+                        "id": "135251434445733888",
+                        "deny": "0",
+                        "allow": "2048"
+                    },
+                    {
+                        "type": 1,
+                        "id": "80528701850124288",
+                        "deny": "0",
+                        "allow": "268435472"
+                    },
+                    {
+                        "type": 0,
+                        "id": "178558252869484544",
+                        "deny": "2112",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "122758889815932930",
+                        "deny": "0",
+                        "allow": "805694545"
+                    },
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "103079216128",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81793792671232000",
+                        "deny": "16",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "356501730453880832",
+                "nsfw": false,
+                "name": "java_jda",
+                "last_pin_timestamp": "2021-03-26T21:21:53+00:00",
+                "last_message_id": "992807943667986462",
+                "id": "381889648827301889",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": null,
+                "rate_limit_per_user": 0,
+                "position": 2,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "175643578071121920",
+                        "deny": "0",
+                        "allow": "3072"
+                    },
+                    {
+                        "type": 0,
+                        "id": "111173097888993280",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 0,
+                        "id": "103548885602942976",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "2112",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "356505375207456768",
+                "name": "faq",
+                "last_message_id": "398939630415904768",
+                "id": "381910626361933828",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": null,
+                "rate_limit_per_user": 0,
+                "position": 41,
+                "permission_overwrites": [
+                    {
+                        "type": 1,
+                        "id": "150061853001777154",
+                        "deny": "0",
+                        "allow": "11264"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "2112",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "168169809303961600",
+                        "deny": "0",
+                        "allow": "11264"
+                    }
+                ],
+                "parent_id": "356506185484206100",
+                "name": "mod-log",
+                "last_message_id": "993042628591493201",
+                "id": "381898473626271767",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": "<a:ablobsweats:396521773719617537>",
+                "rate_limit_per_user": 0,
+                "position": 6,
+                "permission_overwrites": [
+                    {
+                        "type": 1,
+                        "id": "109379894718234624",
+                        "deny": "0",
+                        "allow": "3072"
+                    },
+                    {
+                        "type": 0,
+                        "id": "175643578071121920",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 0,
+                        "id": "159592059873787904",
+                        "deny": "0",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "292212176494657536",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "1024",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "103548885602942976",
+                        "deny": "0",
+                        "allow": "3072"
+                    },
+                    {
+                        "type": 1,
+                        "id": "86699011792191488",
+                        "deny": "0",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "110407893504782336",
+                        "deny": "0",
+                        "allow": "3072"
+                    },
+                    {
+                        "type": 0,
+                        "id": "387761284839636993",
+                        "deny": "0",
+                        "allow": "3072"
+                    },
+                    {
+                        "type": 0,
+                        "id": "158331219535331328",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 1,
+                        "id": "112684233302011904",
+                        "deny": "0",
+                        "allow": "3072"
+                    },
+                    {
+                        "type": 0,
+                        "id": "111173097888993280",
+                        "deny": "0",
+                        "allow": "3072"
+                    },
+                    {
+                        "type": 0,
+                        "id": "103548914652696576",
+                        "deny": "0",
+                        "allow": "536873984"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81793792671232000",
+                        "deny": "0",
+                        "allow": "1024"
+                    }
+                ],
+                "parent_id": "356505753588203520",
+                "nsfw": false,
+                "name": "devs",
+                "last_pin_timestamp": "2021-05-14T00:32:51+00:00",
+                "last_message_id": "993104226110676992",
+                "id": "381886868708655104",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": "<:js:233782775726080012> |\n\n**nyxx guild**: https://discord.gg/nyxx\n\n**Repo:** https://github.com/nyxx-discord/nyxx |\n**Docs:** https://pub.dartlang.org/documentation/nyxx/latest/ | \n**Docs:** https://nyxx.l7ssha.xyz/ | \n**Examples:** https://github.com/nyxx-discord/nyxx/tree/development/nyxx/example\n\n**Developer:** <@302359032612651009>\n**Contributor:** <@281314080923320321> <@506759329068613643>\n\n**Dart links**\n - https://www.dartlang.org/guides/language/language-tour\n - http://jpryan.me/dartbyexample/",
+                "rate_limit_per_user": 0,
+                "position": 13,
+                "permission_overwrites": [
+                    {
+                        "type": 1,
+                        "id": "878631994144202752",
+                        "deny": "2112",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "103079281664",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "281314080923320321",
+                        "deny": "0",
+                        "allow": "8208"
+                    },
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "746647499460051025",
+                        "deny": "2112",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "131072",
+                        "allow": "377920"
+                    },
+                    {
+                        "type": 1,
+                        "id": "302359032612651009",
+                        "deny": "131072",
+                        "allow": "2953182289"
+                    },
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "356501730453880832",
+                "nsfw": false,
+                "name": "dart_nyxx",
+                "last_pin_timestamp": "2021-10-03T12:48:45+00:00",
+                "last_message_id": "992805798713503794",
+                "id": "473853847115137024",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": "Summoñ Satañ with us.\n\nLivecoding in a dynamic functional language makes writing bots FUN!\nPronunciation: \"DISK-le-yord\"\nDiscljord Repo | https://github.com/discljord/discljord\nProject Wiki | https://github.com/discljord/discljord/wiki\nCodox Documentation | https://discljord.github.io/discljord/\n\nSupport server | https://discord.gg/284PgKZ\n\nClojure | https://clojure.org/\nLearn Clojure | https://www.braveclojure.com/clojure-for-the-brave-and-true/",
+                "rate_limit_per_user": 0,
+                "position": 11,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "178558252869484544",
+                        "deny": "1024",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "189169310680219649",
+                        "deny": "0",
+                        "allow": "805317648"
+                    },
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "103079216128",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81793792671232000",
+                        "deny": "0",
+                        "allow": "3072"
+                    },
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "0",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "356501730453880832",
+                "nsfw": false,
+                "name": "clojure_discljord",
+                "last_message_id": "993054537814388818",
+                "id": "550971220447723520",
+                "flags": 0
+            },
+            {
+                "type": 4,
+                "position": 1,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "178558252869484544",
+                        "deny": "2048",
+                        "allow": "0"
+                    }
+                ],
+                "name": "General",
+                "id": "356505557697560577",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": "**Repository:** https://github.com/satom99/coxir\n**Documentation:** https://satom.me/coxir\n**Maintainer:** <@105024590090092544>\n\n**Resources**\n- https://discord.gg/elixir\n- https://elixirforum.com\n- https://elixirschool.com",
+                "rate_limit_per_user": 0,
+                "position": 16,
+                "permission_overwrites": [
+                    {
+                        "type": 1,
+                        "id": "105024590090092544",
+                        "deny": "0",
+                        "allow": "805317649"
+                    },
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "103079217152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "0",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "356501730453880832",
+                "name": "elixir_coxir",
+                "last_pin_timestamp": "2021-05-19T11:48:50+00:00",
+                "last_message_id": "992797972238696528",
+                "id": "432535429162729494",
+                "flags": 0
+            },
+            {
+                "user_limit": 16,
+                "type": 2,
+                "rtc_region": null,
+                "rate_limit_per_user": 0,
+                "position": 4,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "0",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "175643578071121920",
+                        "deny": "0",
+                        "allow": "1049600"
+                    }
+                ],
+                "parent_id": "356503376785309697",
+                "name": "Testing2",
+                "last_message_id": null,
+                "id": "164066317522042881",
+                "flags": 0,
+                "bitrate": 64000
+            },
+            {
+                "type": 4,
+                "position": 2,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "1049600",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "103548914652696576",
+                        "deny": "0",
+                        "allow": "1049600"
+                    },
+                    {
+                        "type": 0,
+                        "id": "103548885602942976",
+                        "deny": "0",
+                        "allow": "1049600"
+                    },
+                    {
+                        "type": 0,
+                        "id": "111173097888993280",
+                        "deny": "0",
+                        "allow": "1049600"
+                    },
+                    {
+                        "type": 0,
+                        "id": "209033538329116682",
+                        "deny": "0",
+                        "allow": "1049600"
+                    }
+                ],
+                "name": "Devs",
+                "id": "356505753588203520",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": "[Click for Info] https://github.com/SpaceManiac/discord-rs\nv0.8.0 on Cargo: https://crates.io/crates/discord\nFully-featured Discord library for the Rust programming language!\nSee the GitHub issue tracker for upcoming changes.\nFeel free to ping @SpaceManiac for questions.",
+                "rate_limit_per_user": 0,
+                "position": 46,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "1024",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "1088",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "92801821336174592",
+                        "deny": "0",
+                        "allow": "805317649"
+                    },
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "435922373095456769",
+                "name": "rust_discord-rs",
+                "last_message_id": "435883272363311105",
+                "id": "381889823159615490",
+                "flags": 0
+            },
+            {
+                "user_limit": 0,
+                "type": 2,
+                "rtc_region": null,
+                "rate_limit_per_user": 0,
+                "position": 7,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "111173097888993280",
+                        "deny": "0",
+                        "allow": "17826816"
+                    },
+                    {
+                        "type": 0,
+                        "id": "103548914652696576",
+                        "deny": "0",
+                        "allow": "17827072"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81793792671232000",
+                        "deny": "0",
+                        "allow": "1049600"
+                    },
+                    {
+                        "type": 0,
+                        "id": "387761284839636993",
+                        "deny": "0",
+                        "allow": "17826816"
+                    },
+                    {
+                        "type": 0,
+                        "id": "175643578071121920",
+                        "deny": "0",
+                        "allow": "1049856"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "1049600",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "103548885602942976",
+                        "deny": "0",
+                        "allow": "17826816"
+                    },
+                    {
+                        "type": 0,
+                        "id": "159592059873787904",
+                        "deny": "0",
+                        "allow": "1049600"
+                    }
+                ],
+                "parent_id": "356503376785309697",
+                "name": "Devs",
+                "last_message_id": null,
+                "id": "766748780262850591",
+                "flags": 0,
+                "bitrate": 128000
+            },
+            {
+                "user_limit": 0,
+                "type": 2,
+                "rtc_region": null,
+                "rate_limit_per_user": 0,
+                "position": 1,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "175643578071121920",
+                        "deny": "0",
+                        "allow": "1049600"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81793792671232000",
+                        "deny": "0",
+                        "allow": "2097152"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "2097152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "159592059873787904",
+                        "deny": "0",
+                        "allow": "2097152"
+                    },
+                    {
+                        "type": 0,
+                        "id": "178558252869484544",
+                        "deny": "0",
+                        "allow": "2097152"
+                    },
+                    {
+                        "type": 0,
+                        "id": "159793968912007178",
+                        "deny": "0",
+                        "allow": "2097152"
+                    }
+                ],
+                "parent_id": "356503376785309697",
+                "name": "Music",
+                "last_message_id": null,
+                "id": "131937933270712320",
+                "flags": 0,
+                "bitrate": 96000
+            },
+            {
+                "type": 0,
+                "topic": null,
+                "rate_limit_per_user": 0,
+                "position": 43,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "111173097888993280",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 0,
+                        "id": "103548885602942976",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "3136",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "230434397831036928",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 1,
+                        "id": "80528701850124288",
+                        "deny": "0",
+                        "allow": "3072"
+                    },
+                    {
+                        "type": 0,
+                        "id": "175643578071121920",
+                        "deny": "0",
+                        "allow": "1024"
+                    }
+                ],
+                "parent_id": "356506185484206100",
+                "name": "join-log",
+                "last_message_id": "993104543313309748",
+                "id": "381898610876350464",
+                "flags": 0
+            },
+            {
+                "type": 4,
+                "position": 6,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "175643578071121920",
+                        "deny": "0",
+                        "allow": "2048"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "2048",
+                        "allow": "0"
+                    }
+                ],
+                "name": "Voice",
+                "id": "356503376785309697",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": "blame b1nzy and voltana",
+                "rate_limit_per_user": 0,
+                "position": 8,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "103548914652696576",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 0,
+                        "id": "158331219535331328",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 0,
+                        "id": "175643578071121920",
+                        "deny": "0",
+                        "allow": "268436480"
+                    },
+                    {
+                        "type": 0,
+                        "id": "288581540080910336",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 0,
+                        "id": "387761284839636993",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "1024",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "230434397831036928",
+                        "deny": "0",
+                        "allow": "268436480"
+                    },
+                    {
+                        "type": 0,
+                        "id": "111173097888993280",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 0,
+                        "id": "103548885602942976",
+                        "deny": "0",
+                        "allow": "1024"
+                    }
+                ],
+                "parent_id": "356505753588203520",
+                "name": "food",
+                "last_pin_timestamp": "2022-05-31T02:02:01+00:00",
+                "last_message_id": "992882232324796469",
+                "id": "364492000093011978",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": "General Discord API Discussion —\n    Off-topic discussion is strictly forbidden in here, including help with library usage (discord API library or otherwise) and discussions of other APIs! |\n    Official Docs — https://discord.com/developers/docs/intro | \n    GitHub — https://github.com/discord/discord-api-docs\n\n    Other resources:\n    GameSDK and Dispatch — https://github.com/discord/gamesdk-and-dispatch\n    Discord Developers — https://discord.gg/discord-developers\n    RPC (deprecated) — https://github.com/discord/discord-rpc",
+                "rate_limit_per_user": 0,
+                "position": 5,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "178558252869484544",
+                        "deny": "2112",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "0",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "103079217152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "175643578071121920",
+                        "deny": "0",
+                        "allow": "2112"
+                    }
+                ],
+                "parent_id": "356505557697560577",
+                "name": "api",
+                "last_pin_timestamp": "2018-12-28T18:00:09.856000+00:00",
+                "last_message_id": "993101554263531550",
+                "id": "381887113391505410",
+                "flags": 0
+            },
+            {
+                "user_limit": 0,
+                "type": 2,
+                "rtc_region": null,
+                "rate_limit_per_user": 0,
+                "position": 2,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "81793792671232000",
+                        "deny": "0",
+                        "allow": "2097152"
+                    },
+                    {
+                        "type": 0,
+                        "id": "175643578071121920",
+                        "deny": "0",
+                        "allow": "1049600"
+                    },
+                    {
+                        "type": 0,
+                        "id": "159592059873787904",
+                        "deny": "0",
+                        "allow": "2097152"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "2097152",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 0,
+                        "id": "159793968912007178",
+                        "deny": "0",
+                        "allow": "2097152"
+                    }
+                ],
+                "parent_id": "356503376785309697",
+                "name": "Music2",
+                "last_message_id": null,
+                "id": "178478247103823872",
+                "flags": 0,
+                "bitrate": 96000
+            },
+            {
+                "type": 4,
+                "position": 4,
+                "permission_overwrites": [],
+                "name": "Testing",
+                "id": "356505966201798656",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": "Join the official help server: https://discord.gg/dpy\n\nNeed help? **Post the full traceback without credentials and you'll be more likely to receive help**.\n\nProficients:\n\n- <@90437808245723136>\n- <@95473026350452736>\n- <@57978424349696000>\n- <@103675685343612928>\n\nLatest pip: v1.7.2\nGithub: https://github.com/Rapptz/discord.py\nDocumentation: https://discordpy.readthedocs.io/en/latest/\nMigrating: https://discordpy.readthedocs.io/en/latest/migrating.html\nDiffs: https://github.com/Rapptz/discord.py/compare/v1.6.0..v1.7.2\nChangelog: https://discordpy.readthedocs.io/en/latest/whats_new.html#v1-7-2",
+                "rate_limit_per_user": 0,
+                "position": 31,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "0",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "178558252869484544",
+                        "deny": "3072",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "159592059873787904",
+                        "deny": "1024",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "292212176494657536",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 1,
+                        "id": "80088516616269824",
+                        "deny": "0",
+                        "allow": "805306385"
+                    },
+                    {
+                        "type": 1,
+                        "id": "112684233302011904",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81793792671232000",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "103079216128",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "109379894718234624",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "356501730453880832",
+                "name": "python_discord-py",
+                "last_pin_timestamp": null,
+                "last_message_id": "992929345670746132",
+                "id": "381889733053251584",
+                "flags": 0
+            },
+            {
+                "type": 5,
+                "topic": null,
+                "rate_limit_per_user": 0,
+                "position": 3,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "175643578071121920",
+                        "deny": "0",
+                        "allow": "11264"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "2112",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "103548914652696576",
+                        "deny": "0",
+                        "allow": "3072"
+                    }
+                ],
+                "parent_id": "356505375207456768",
+                "name": "announcements",
+                "last_message_id": "899753484440723466",
+                "id": "381871767846780928",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": "[Click to expand]\n\n\"?sub news\" to subscribe to Discordia news and updates\n\n**Version:** 2.9.1\n**Developer:** <@132127067847262209>\n**Repository:** <https://github.com/SinisterRectus/Discordia>\n**Documentation:** <https://github.com/SinisterRectus/Discordia/wiki>\n**Community Server:** https://discord.gg/sinisterware\n**Luvit:** <https://luvit.io/>\n**Luvit Discord:** https://discord.gg/luvit\n\n**Contributors:** <@235596836159619072>\n**Proficients:** <@92271879783469056>, <@515615356052570132> <@150374394005422080>\n\n**Note:** Please do not send unsolicited DMs to developers, contributors, or proficients for support. You can mention us in this channel if you need our attention.\n\n**Lua Links**\n- <https://www.lua.org/manual/5.1/index.html>\n- <https://www.lua.org/pil/contents.html>\n- <http://lua-users.org/wiki/TutorialDirectory>\n- <http://thomaslauer.com/download/luarefv51.pdf>",
+                "rate_limit_per_user": 0,
+                "position": 27,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "103079216128",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "178558252869484544",
+                        "deny": "3072",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "505159492191911945",
+                        "deny": "0",
+                        "allow": "3072"
+                    },
+                    {
+                        "type": 1,
+                        "id": "132127067847262209",
+                        "deny": "0",
+                        "allow": "805308433"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "0",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "153888864467943428",
+                        "deny": "0",
+                        "allow": "805314560"
+                    },
+                    {
+                        "type": 1,
+                        "id": "428927840738869269",
+                        "deny": "0",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "356501730453880832",
+                "name": "lua_discordia",
+                "last_pin_timestamp": "2021-05-29T21:44:42+00:00",
+                "last_message_id": "992797224679518318",
+                "id": "381890411414683648",
+                "flags": 0
+            },
+            {
+                "user_limit": 23,
+                "type": 2,
+                "rtc_region": null,
+                "rate_limit_per_user": 0,
+                "position": 3,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "81793792671232000",
+                        "deny": "0",
+                        "allow": "2097152"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "2097152",
+                        "allow": "512"
+                    },
+                    {
+                        "type": 0,
+                        "id": "159592059873787904",
+                        "deny": "0",
+                        "allow": "3145728"
+                    },
+                    {
+                        "type": 1,
+                        "id": "86699011792191488",
+                        "deny": "0",
+                        "allow": "2097152"
+                    },
+                    {
+                        "type": 0,
+                        "id": "175643578071121920",
+                        "deny": "0",
+                        "allow": "1049600"
+                    },
+                    {
+                        "type": 1,
+                        "id": "300642079657426945",
+                        "deny": "0",
+                        "allow": "1"
+                    }
+                ],
+                "parent_id": "356503376785309697",
+                "name": "Testing",
+                "last_message_id": null,
+                "id": "85482585546833920",
+                "flags": 0,
+                "bitrate": 96000
+            },
+            {
+                "type": 0,
+                "topic": "Githubs\n- Main: https://github.com/detritusjs/client\n- Rest Client: https://github.com/detritusjs/client-rest\n- Socket Client: https://github.com/detritusjs/client-socket\n\nDocs\n- Main: https://detritusjs.com\n- Rest Client: https://rest.detritusjs.com/\n- Socket Client: https://socket.detritusjs.com/\n\nNPM\n- Main: https://npmjs.org/package/detritus-client\n- Rest Client: https://npmjs.org/package/detritus-client-rest\n- Socket Client: https://npmjs.org/package/detritus-client-socket",
+                "rate_limit_per_user": 0,
+                "position": 37,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "103079216128",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "86699011792191488",
+                        "deny": "0",
+                        "allow": "3072"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "0",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "300505364032389122",
+                        "deny": "0",
+                        "allow": "805309456"
+                    },
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81793792671232000",
+                        "deny": "0",
+                        "allow": "3072"
+                    }
+                ],
+                "parent_id": "356501730453880832",
+                "name": "ts_detritus",
+                "last_message_id": "992799460524576770",
+                "id": "745874297926451210",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": null,
+                "rate_limit_per_user": 0,
+                "position": 7,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "209033538329116682",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 0,
+                        "id": "103548885602942976",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "1024",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "159592059873787904",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 0,
+                        "id": "213101959333281793",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 0,
+                        "id": "111173097888993280",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 0,
+                        "id": "103548914652696576",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 0,
+                        "id": "158331219535331328",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81793792671232000",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 0,
+                        "id": "175643578071121920",
+                        "deny": "0",
+                        "allow": "1024"
+                    }
+                ],
+                "parent_id": "356505753588203520",
+                "name": "not-devs",
+                "last_pin_timestamp": "2018-09-07T00:07:04.596000+00:00",
+                "last_message_id": "988897684477849600",
+                "id": "381886978205155338",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": "GitHub: https://github.com/fwcd/swift-discord\nhttps://github.com/nuclearace/SwiftDiscord",
+                "rate_limit_per_user": 0,
+                "position": 36,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "0",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "103079216128",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "236199587910516737",
+                        "deny": "0",
+                        "allow": "3072"
+                    },
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "104753987663712256",
+                        "deny": "0",
+                        "allow": "805314577"
+                    },
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 1,
+                        "id": "80528701850124288",
+                        "deny": "0",
+                        "allow": "11328"
+                    },
+                    {
+                        "type": 0,
+                        "id": "103548885602942976",
+                        "deny": "0",
+                        "allow": "2048"
+                    }
+                ],
+                "parent_id": "356501730453880832",
+                "nsfw": false,
+                "name": "swift_swiftdiscord",
+                "last_message_id": "993024120998608947",
+                "id": "381891082243276812",
+                "flags": 0
+            },
+            {
+                "user_limit": 6,
+                "type": 2,
+                "rtc_region": null,
+                "rate_limit_per_user": 0,
+                "position": 5,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "175643578071121920",
+                        "deny": "0",
+                        "allow": "1049600"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "0",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "356503376785309697",
+                "name": "Testing3",
+                "last_message_id": null,
+                "id": "164066346307420160",
+                "flags": 0,
+                "bitrate": 64000
+            },
+            {
+                "type": 0,
+                "topic": "Dev: <@!119886831578775554>\nGithub: https://github.com/Azoy/Sword\nDocs: https://azoy.github.io/Sword/\n\n<:swift:238059598857240576> + Discord = :crossed_swords:\n\nSwordRPC: A Discord Rich Presence Library for Swift\nGithub: https://github.com/Azoy/SwordRPC\n\nTo sub to updates, do `?sub updates`\nTo get the invite for the Swift Discord Server, do `?ahh swift-server`",
+                "rate_limit_per_user": 0,
+                "position": 49,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "1024",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81793792671232000",
+                        "deny": "0",
+                        "allow": "805698641"
+                    },
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "1024",
+                        "allow": "2112"
+                    }
+                ],
+                "parent_id": "435922373095456769",
+                "name": "swift_sword",
+                "last_pin_timestamp": "2017-12-09T08:14:44.006000+00:00",
+                "last_message_id": "847502939710947398",
+                "id": "381890368037453824",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": "GitHub: https://github.com/Javacord/Javacord  \nJavaDocs: https://docs.javacord.org/\nTutorial/Wiki: https://javacord.org/wiki\nJoin the Javacord! server: https://discord.gg/Javacord",
+                "rate_limit_per_user": 0,
+                "position": 21,
+                "permission_overwrites": [
+                    {
+                        "type": 1,
+                        "id": "157862224206102529",
+                        "deny": "0",
+                        "allow": "805698641"
+                    },
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "103079216128",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "0",
+                        "allow": "64"
+                    },
+                    {
+                        "type": 1,
+                        "id": "239830899200491520",
+                        "deny": "1024",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "254077236989132800",
+                        "deny": "49152",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "356501730453880832",
+                "nsfw": false,
+                "name": "java_javacord",
+                "last_message_id": "992798383280492654",
+                "id": "381889796785831936",
+                "flags": 0
+            },
+            {
+                "type": 0,
+                "topic": null,
+                "rate_limit_per_user": 0,
+                "position": 45,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "270610430060265472",
+                        "deny": "3136",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "0",
+                        "allow": "1024"
+                    },
+                    {
+                        "type": 0,
+                        "id": "242282209153646592",
+                        "deny": "262208",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "257017090932867072",
+                        "deny": "3136",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "178558252869484544",
+                        "deny": "2048",
+                        "allow": "0"
+                    }
+                ],
+                "parent_id": "356503376785309697",
+                "name": "voice-general",
+                "last_message_id": "992818125525499964",
+                "id": "467961494743547904",
+                "flags": 0
+            },
+            {
+                "user_limit": 0,
+                "type": 2,
+                "rtc_region": null,
+                "rate_limit_per_user": 0,
+                "position": 0,
+                "permission_overwrites": [
+                    {
+                        "type": 0,
+                        "id": "81384788765712384",
+                        "deny": "0",
+                        "allow": "0"
+                    },
+                    {
+                        "type": 0,
+                        "id": "175643578071121920",
+                        "deny": "0",
+                        "allow": "1049600"
+                    }
+                ],
+                "parent_id": "356503376785309697",
+                "name": "General",
+                "last_message_id": "992732817773576282",
+                "id": "81384788862181376",
+                "flags": 0,
+                "bitrate": 96000
+            }
+        ]
+    }
+}

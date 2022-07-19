@@ -1,0 +1,6101 @@
+﻿[
+  {
+    "id": "530598290417385474",
+    "last_message_id": "966321104497049640",
+    "type": 0,
+    "name": "meta",
+    "position": 11,
+    "parent_id": "530603515958263809",
+    "topic": "Discussion about this Discord, /r/ProgrammingLanguages, /r/PLDmemes, https://proglangdesign.net, or https://proglangdesign.net/wiki/.",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "0"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "68608"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "last_pin_timestamp": "2021-08-18T17:20:28+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "530598290417385476",
+    "type": 4,
+    "name": "Voice Channels",
+    "position": 5,
+    "parent_id": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      }
+    ]
+  },
+  {
+    "id": "530598290417385478",
+    "last_message_id": null,
+    "type": 2,
+    "name": "General 1",
+    "position": 0,
+    "parent_id": "530598290417385476",
+    "bitrate": 64000,
+    "user_limit": 0,
+    "rtc_region": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "0"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "530602652174778369",
+    "last_message_id": "966137279594766346",
+    "type": 0,
+    "name": "arrivals",
+    "position": 10,
+    "parent_id": "530603515958263809",
+    "topic": "Greetings messages and stuff",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "68608"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "0"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "530602831049392129",
+    "last_message_id": "957796431329099776",
+    "type": 0,
+    "name": "announcements",
+    "position": 2,
+    "parent_id": "762473283693445120",
+    "topic": "Serverwide announcements",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "68608"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "530602338532982796",
+        "type": 0,
+        "allow": "2048",
+        "deny": "0"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "134073775925886976",
+        "type": 1,
+        "allow": "3072",
+        "deny": "0"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "530603143969636362",
+    "last_message_id": "963245370677293097",
+    "type": 0,
+    "name": "info",
+    "position": 1,
+    "parent_id": "762473283693445120",
+    "topic": "Information about the Discord.",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "1024",
+        "deny": "2112"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "68608"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "134073775925886976",
+        "type": 1,
+        "allow": "52224",
+        "deny": "0"
+      },
+      {
+        "id": "530602338532982796",
+        "type": 0,
+        "allow": "2048",
+        "deny": "0"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "530603515958263809",
+    "type": 4,
+    "name": "\ud83d\udcac General Chat",
+    "position": 2,
+    "parent_id": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "68608"
+      }
+    ]
+  },
+  {
+    "id": "530603542138847242",
+    "last_message_id": "966265590102761472",
+    "type": 0,
+    "name": "pl-general",
+    "position": 20,
+    "parent_id": "530604433076125699",
+    "topic": "General discussion.",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "68608"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      }
+    ],
+    "last_pin_timestamp": "2022-04-19T03:20:31+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "530604433076125699",
+    "type": 4,
+    "name": "\ud83d\udcd0 PLT&D",
+    "position": 4,
+    "parent_id": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "68608"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      }
+    ]
+  },
+  {
+    "id": "530604512017121290",
+    "last_message_id": "966335290258112512",
+    "type": 0,
+    "name": "design",
+    "position": 21,
+    "parent_id": "530604433076125699",
+    "topic": "Programming language design, as opposed to implementation.",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "68608"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "last_pin_timestamp": "2022-01-20T23:09:13+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "530604532556627984",
+    "last_message_id": "966227393142489148",
+    "type": 0,
+    "name": "frontend",
+    "position": 23,
+    "parent_id": "530604433076125699",
+    "topic": "Discussion about lexers, parsers, type checkers, elaborators, and other compiler frontend-related stuff.",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "68608"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "530604566794862612",
+    "last_message_id": "965567916890288188",
+    "type": 0,
+    "name": "resources",
+    "position": 28,
+    "parent_id": "530604433076125699",
+    "topic": "Post useful PLT&D-related links here. Not for discussion. If a conversation around a resource gets bigger than a few messages, please move to another channel.",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "68608"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      }
+    ],
+    "last_pin_timestamp": "2021-11-16T02:53:40+00:00",
+    "rate_limit_per_user": 3600,
+    "nsfw": false
+  },
+  {
+    "id": "530604640849625098",
+    "last_message_id": "966019588728975450",
+    "type": 0,
+    "name": "backend",
+    "position": 24,
+    "parent_id": "530604433076125699",
+    "topic": "Discussion about code generation, peephole optimization, and other things related to compiler backends.",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "68608"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      }
+    ],
+    "last_pin_timestamp": "2021-12-04T20:54:25+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "530604668905193493",
+    "last_message_id": "966322509010059344",
+    "type": 0,
+    "name": "theory",
+    "position": 22,
+    "parent_id": "530604433076125699",
+    "topic": "Type theory, category theory, or whatever other ~~abstract nonsense~~ *-theory your heart desires!",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "68608"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "530604963911696404",
+    "type": 4,
+    "name": "Projects D-J",
+    "position": 8,
+    "parent_id": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      }
+    ]
+  },
+  {
+    "id": "530619238860455946",
+    "last_message_id": "966229856222343178",
+    "type": 0,
+    "name": "pikelet",
+    "position": 99,
+    "parent_id": "943958403070439515",
+    "topic": "(Unofficial channel) A friendly little systems language with first-class types. Check the pinned messages for more information and links!",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "280132690059984897",
+        "type": 1,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      }
+    ],
+    "last_pin_timestamp": "2021-04-13T04:08:09+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "530622307383771156",
+    "last_message_id": "966333876094009364",
+    "type": 0,
+    "name": "off-topic",
+    "position": 16,
+    "parent_id": "530603515958263809",
+    "topic": "Semi-serious discussions unrelated to programming or PLTD&I.",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "68608"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "last_pin_timestamp": "2022-02-01T08:08:55+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "530823265946566668",
+    "last_message_id": "965976873978966127",
+    "type": 0,
+    "name": "mod-chat",
+    "position": 5,
+    "parent_id": "740120712571781161",
+    "topic": "Moderator discussion.",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "530602338532982796",
+        "type": 0,
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "530618628647944203",
+        "type": 0,
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      }
+    ],
+    "last_pin_timestamp": "2021-04-27T06:29:26+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "532982407989690371",
+    "last_message_id": "966332812032618496",
+    "type": 0,
+    "name": "careers",
+    "position": 15,
+    "parent_id": "530603515958263809",
+    "topic": "Job ads in the field of programming language design and career/employment discussion.",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "68608"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      }
+    ],
+    "last_pin_timestamp": "2021-11-05T23:17:05+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "539563962291978240",
+    "last_message_id": "965703862692511804",
+    "type": 0,
+    "name": "tooling",
+    "position": 26,
+    "parent_id": "530604433076125699",
+    "topic": "A good ecosystem of tools for a PL can be just as important as good design.",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "68608"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "545258408002060318",
+    "last_message_id": "949942243186315266",
+    "type": 0,
+    "name": "owen",
+    "position": 94,
+    "parent_id": "943958403070439515",
+    "topic": "https://owen-lang.org/ | An imperative, statically but weakly typed systems programming language with manual memory management.",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "137613909501804545",
+        "type": 1,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "554854254431436802",
+    "last_message_id": "944293922123943936",
+    "type": 0,
+    "name": "rhovas",
+    "position": 107,
+    "parent_id": "745791509290418187",
+    "topic": "A language for API design and enforcement",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "489956197324292096",
+        "type": 1,
+        "allow": "0",
+        "deny": "268566528"
+      }
+    ],
+    "last_pin_timestamp": "2020-01-02T05:42:22.386000+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "613945169515118592",
+    "last_message_id": "961752519594352650",
+    "type": 0,
+    "name": "runtime",
+    "position": 25,
+    "parent_id": "530604433076125699",
+    "topic": "Discussion about library and runtime implementation details, including performance",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "68608"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "627842350357413898",
+    "last_message_id": "966332499963805756",
+    "type": 0,
+    "name": "programming",
+    "position": 14,
+    "parent_id": "530603515958263809",
+    "topic": "Programming which is *not* related to PLTD&I.",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "68608"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "639516337974149120",
+    "last_message_id": "962021085077991464",
+    "type": 0,
+    "name": "ccore",
+    "position": 52,
+    "parent_id": "946608691912802354",
+    "topic": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "540998931861995530",
+        "type": 1,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      }
+    ],
+    "last_pin_timestamp": "2019-10-31T18:07:09.061000+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "662637522895110146",
+    "last_message_id": "949678522576797737",
+    "type": 0,
+    "name": "sixten",
+    "position": 114,
+    "parent_id": "745791509290418187",
+    "topic": "A dependently typed language where all data is unboxed by default. Functional programming with fewer indirections!\n\nThe main repo is https://github.com/ollef/sixten, but most development is currently happening in https://github.com/ollef/sixty, where a new frontend is being built based on normalisation by evaluation.",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "508922184362885120",
+        "type": 1,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "662658107796881419",
+    "last_message_id": "781415602115182592",
+    "type": 0,
+    "name": "rules",
+    "position": 0,
+    "parent_id": "762473283693445120",
+    "topic": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "1024",
+        "deny": "2112"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "530602338532982796",
+        "type": 0,
+        "allow": "2048",
+        "deny": "0"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "68608"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "666551239512948757",
+    "last_message_id": null,
+    "type": 2,
+    "name": "General 2",
+    "position": 1,
+    "parent_id": "530598290417385476",
+    "bitrate": 64000,
+    "user_limit": 0,
+    "rtc_region": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "0"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "666551286451273769",
+    "last_message_id": "965023917985103914",
+    "type": 0,
+    "name": "voice-text-1",
+    "position": 30,
+    "parent_id": "530598290417385476",
+    "topic": "Context for the voice chats.",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "0"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "884405006290276382",
+        "type": 1,
+        "allow": "0",
+        "deny": "1024"
+      }
+    ],
+    "last_pin_timestamp": "2020-10-16T00:09:04.785000+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "680184908857212947",
+    "last_message_id": "966333207018606594",
+    "type": 0,
+    "name": "beginners",
+    "position": 18,
+    "parent_id": "890315854938521610",
+    "topic": "No question is too basic for this channel.",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "0"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      }
+    ],
+    "last_pin_timestamp": "2021-10-21T04:22:05+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "686027577965805598",
+    "last_message_id": "965110542287114280",
+    "type": 0,
+    "name": "amethyst",
+    "position": 132,
+    "parent_id": "946758536489230347",
+    "topic": "GitHub repo: https://github.com/jenra-uwu/amethyst\n\nAmethyst is a systems language designed to be simple, small, portable, and safe.",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "857782512754622465",
+        "type": 1,
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "913878181298192444",
+        "type": 0,
+        "allow": "536882192",
+        "deny": "0"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "805590203774926898",
+        "type": 1,
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "last_pin_timestamp": "2022-04-06T14:53:31+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "687384606869029070",
+    "last_message_id": "965206626921512981",
+    "type": 0,
+    "name": "feral-scribe",
+    "position": 133,
+    "parent_id": "946758536489230347",
+    "topic": "https://github.com/scribe-lang/scribe, https://github.com/Feral-Lang/Feral\nScribe is a (currently experimental) statically typed fully compiled systems programming language.\nFeral is a dynamically typed interpreted language.",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "323207651821355008",
+        "type": 1,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "688618253563592718",
+    "last_message_id": "945786301704187984",
+    "type": 0,
+    "name": "archive",
+    "position": 139,
+    "parent_id": "946758536489230347",
+    "topic": "Archived chat logs from now-deleted channels.",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "541315315640959004",
+        "type": 0,
+        "allow": "0",
+        "deny": "0"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "704019778154659951",
+    "last_message_id": "966316624565108796",
+    "type": 0,
+    "name": "star",
+    "position": 116,
+    "parent_id": "745791509290418187",
+    "topic": "An experimental programming language that's made to be powerful, productive, and predictable.\n\nSource: https://github.com/ALANVF/star\nDocs/specs: https://github.com/ALANVF/Star-lang-specification\nWebsite: coming soon",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "356108561232953344",
+        "type": 1,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "709845254576144545",
+    "last_message_id": "962429730068504606",
+    "type": 0,
+    "name": "lobster\ud83e\udd9e",
+    "position": 88,
+    "parent_id": "943958403070439515",
+    "topic": "http://strlen.com/lobster/ - https://github.com/aardappel/lobster - https://discord.gg/szJPYdX",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "295294819704766474",
+        "type": 1,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      }
+    ],
+    "last_pin_timestamp": "2020-05-12T20:57:36.018000+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "713918312563736717",
+    "last_message_id": "964532989730103337",
+    "type": 0,
+    "name": "ante",
+    "position": 40,
+    "parent_id": "946608691912802354",
+    "topic": "website: https://antelang.org | compiler: https://github.com/jfecher/ante",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "323662901887893504",
+        "type": 1,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "713918066836242464",
+        "type": 0,
+        "allow": "17179877392",
+        "deny": "0"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      }
+    ],
+    "last_pin_timestamp": "2022-04-08T00:00:20+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "715089779901071401",
+    "last_message_id": "966315295771856927",
+    "type": 0,
+    "name": "hey-look",
+    "position": 12,
+    "parent_id": "530603515958263809",
+    "topic": "Post comments in #hey-look-discussion! Share something you did here \u2013 it does not need to be PLD related!",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "68608"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "rate_limit_per_user": 60,
+    "nsfw": false
+  },
+  {
+    "id": "721402530948579449",
+    "last_message_id": "965915138072936508",
+    "type": 0,
+    "name": "vox",
+    "position": 125,
+    "parent_id": "745791509290418187",
+    "topic": "https://github.com/MrSmith33/vox",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "171266915304472577",
+        "type": 1,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "last_pin_timestamp": "2020-07-16T20:12:20.894000+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "729095368972697630",
+    "last_message_id": "966216115791491122",
+    "type": 0,
+    "name": "basil-clover",
+    "position": 45,
+    "parent_id": "946608691912802354",
+    "topic": "Sort of a Lisp dialect. Experimenting with metaprogramming and partial evaluation. https://github.com/basilTeam/basil",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "132610219980095488",
+        "type": 1,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      }
+    ],
+    "last_pin_timestamp": "2021-10-27T19:14:05+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "732219641866223746",
+    "last_message_id": "965202507997515776",
+    "type": 0,
+    "name": "firefly",
+    "position": 62,
+    "parent_id": "530604963911696404",
+    "topic": "Full-stack language with colorless async/await: https://www.ahnfelt.net/async-await-inference-in-firefly/",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "268128653597081600",
+        "type": 1,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "740120651305844807",
+    "last_message_id": "965976736762331136",
+    "type": 0,
+    "name": "bot-config",
+    "position": 6,
+    "parent_id": "740120712571781161",
+    "topic": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "823183090649268256",
+        "type": 1,
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "530618628647944203",
+        "type": 0,
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "767048409667469333",
+        "type": 0,
+        "allow": "535529258064",
+        "deny": "0"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "268436496"
+      },
+      {
+        "id": "530602338532982796",
+        "type": 0,
+        "allow": "1024",
+        "deny": "0"
+      }
+    ],
+    "last_pin_timestamp": "2020-11-03T02:56:20.710000+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "740120712571781161",
+    "type": 4,
+    "name": "Mods",
+    "position": 1,
+    "parent_id": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "530602338532982796",
+        "type": 0,
+        "allow": "117824",
+        "deny": "0"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      }
+    ]
+  },
+  {
+    "id": "740120713741991956",
+    "last_message_id": "962175004462702672",
+    "type": 0,
+    "name": "modmail-log",
+    "position": 8,
+    "parent_id": "740120712571781161",
+    "topic": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "530602338532982796",
+        "type": 0,
+        "allow": "117824",
+        "deny": "0"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "740982699552014466",
+    "last_message_id": "953881635709911141",
+    "type": 0,
+    "name": "tawa",
+    "position": 120,
+    "parent_id": "745791509290418187",
+    "topic": "The language of motion, now in German as a simple functional language.\n\nhttps://github.com/tawasprache",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "249987062084665344",
+        "type": 1,
+        "allow": "0",
+        "deny": "268566528"
+      }
+    ],
+    "last_pin_timestamp": "2021-11-24T05:23:31+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "743621384110080100",
+    "last_message_id": "953357490333048912",
+    "type": 0,
+    "name": "aardvark",
+    "position": 35,
+    "parent_id": "946608691912802354",
+    "topic": "Aardvark is an easy-to-use general purpose programming language with an emphasis on simplicity and speed.\nSpeed not only in running the code, but also in writing it.\nhttps://github.com/Aardvark-team/Adk",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "743622911411224616",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "745166643990233118",
+        "type": 1,
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "676414144643203120",
+        "type": 1,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "732015235229155411",
+        "type": 1,
+        "allow": "0",
+        "deny": "268566528"
+      }
+    ],
+    "last_pin_timestamp": "2022-02-24T01:02:04+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "745791509290418187",
+    "type": 4,
+    "name": "Projects R-Y",
+    "position": 10,
+    "parent_id": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ]
+  },
+  {
+    "id": "745801227467751454",
+    "last_message_id": "936923701499293696",
+    "type": 0,
+    "name": "volpe",
+    "position": 124,
+    "parent_id": "745791509290418187",
+    "topic": "[https://github.com/LHolten/Volpe] is a minimalist abstraction language for source code",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "215926769813815296",
+        "type": 1,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "749544651232378922",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "144791175142965248",
+        "type": 1,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "last_pin_timestamp": "2020-09-01T23:24:21.393000+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "762473283693445120",
+    "type": 4,
+    "name": "\ud83d\udcf0 Info",
+    "position": 0,
+    "parent_id": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ]
+  },
+  {
+    "id": "767042054224084992",
+    "last_message_id": "966334876573904958",
+    "type": 0,
+    "name": "mod-logs",
+    "position": 7,
+    "parent_id": "740120712571781161",
+    "topic": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "530618628647944203",
+        "type": 0,
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "530602338532982796",
+        "type": 0,
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "768860604555067392",
+    "last_message_id": "951809201389330462",
+    "type": 0,
+    "name": "japl",
+    "position": 78,
+    "parent_id": "530604963911696404",
+    "topic": "Just Another Programming Language! JAPL is a scripting language inspired from Java and C,  aiming at ease of use and high performance, while also featuring a welcoming and helpful community with people from all backgrounds and level of experience.\n\nGitHub organization: https://github.com/japl-lang\nWebsite: https://japl-lang.com\nForum: https://forum.japl-lang.com\nOur official discord: https://discord.com/invite/P8FYZvM",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "523555920265871380",
+        "type": 1,
+        "allow": "0",
+        "deny": "268566528"
+      }
+    ],
+    "last_pin_timestamp": "2020-11-05T08:29:25.131000+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "772347567534374912",
+    "last_message_id": "966320913958191147",
+    "type": 0,
+    "name": "brick-quest-knight-squire-lance-stick-\ud83d\udc63",
+    "position": 47,
+    "parent_id": "946608691912802354",
+    "topic": "Quest Repo: https://github.com/sampersand/quest\nKnight Organization: https://github.com/knight-lang\nKnight Discord: https://discord.com/invite/SE3TjsewDk\nSquire Repo: https://github.com/sampersand/squire\nLance Repo: https://github.com/sampersand/lance\nBrick Repo: https://github.com/sampersand/brick",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "719255892813545502",
+        "type": 1,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "772347425338687539",
+        "type": 0,
+        "allow": "17179877392",
+        "deny": "0"
+      }
+    ],
+    "last_pin_timestamp": "2021-12-30T02:25:08+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "774497484281085994",
+    "last_message_id": "962080134536495184",
+    "type": 0,
+    "name": "calypso-tethys",
+    "position": 49,
+    "parent_id": "946608691912802354",
+    "topic": "Calypso is a mostly imperative language with some functional influences that is focused on flexibility and simplicity. (https://github.com/calypso-lang/calypso)\nTethys is somewhat dual to Calypso, being an (informal) research toy language, meant to learn typechecking which I will use to create Calypso's type system. (https://github.com/ThePuzzlemaker/tethys) - even more WIP than Calypso",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "310530696534032388",
+        "type": 1,
+        "allow": "17716748304",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "884405006290276382",
+        "type": 1,
+        "allow": "1024",
+        "deny": "0"
+      }
+    ],
+    "last_pin_timestamp": "2021-08-16T01:50:34+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "781075554392473620",
+    "last_message_id": "930435241389228062",
+    "type": 0,
+    "name": "mods-important",
+    "position": 3,
+    "parent_id": "740120712571781161",
+    "topic": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "530602338532982796",
+        "type": 0,
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "530618628647944203",
+        "type": 0,
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "last_pin_timestamp": "2020-11-25T08:36:11.237000+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "781211036913106954",
+    "last_message_id": "966330597800816760",
+    "type": 0,
+    "name": "gwion\ud83c\udfb6",
+    "position": 68,
+    "parent_id": "530604963911696404",
+    "topic": "Strongly timed musical programming language.\n\ntake the tour: https://gwion.github.io/GwionTour/ (WIP)\nthe sources can be found here: https://github.com/Gwion/Gwion\n\nYou can also join the discord server\nhttps://discord.gg/KmHqbTKSmS",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "797415930698399804",
+        "type": 1,
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "781209943520444427",
+        "type": 0,
+        "allow": "8208",
+        "deny": "0"
+      },
+      {
+        "id": "775030193332027494",
+        "type": 1,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "745166643990233118",
+        "type": 1,
+        "allow": "1024",
+        "deny": "0"
+      }
+    ],
+    "last_pin_timestamp": "2022-04-14T14:32:37+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "783416949837266964",
+    "last_message_id": "935298260074135562",
+    "type": 0,
+    "name": "advent-of-code",
+    "position": 29,
+    "parent_id": "530604433076125699",
+    "topic": "Discussion about this year's Advent of Code: https://adventofcode.com/. This channel is spoiler-friendly, so don't come in if you don't want to see the answers!\nJoin the r/PL discord leaderboard: 949085-3e805687",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "530602338532982796",
+        "type": 0,
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "68608"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      }
+    ],
+    "last_pin_timestamp": "2020-12-02T05:45:23.385000+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "789657334825746462",
+    "last_message_id": "960282220017360936",
+    "type": 0,
+    "name": "yammld3",
+    "position": 127,
+    "parent_id": "745791509290418187",
+    "topic": "YAMMLd3 is a new music macro language (MML) with focus on readability. https://github.com/starg2/yammld3",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "783661746589794314",
+        "type": 1,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "790923513627672576",
+    "last_message_id": "965016749609222164",
+    "type": 0,
+    "name": "aith",
+    "position": 38,
+    "parent_id": "946608691912802354",
+    "topic": "(https://github.com/Superstar64/aith) Aith is a low level functional programming language with linear types, generalized inline functions and levity polymorhpism. Aith is currently in it's very early stages.",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "745166643990233118",
+        "type": 1,
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "554997757409099786",
+        "type": 1,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      }
+    ],
+    "last_pin_timestamp": "2021-12-28T10:31:14+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "796689148332212244",
+    "last_message_id": "966335002595950702",
+    "type": 0,
+    "name": "hey-look-discussion",
+    "position": 13,
+    "parent_id": "530603515958263809",
+    "topic": "Discussions about things posted in #hey-look",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "68608"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "798116197991317514",
+    "last_message_id": "955420564380590101",
+    "type": 0,
+    "name": "marlin",
+    "position": 91,
+    "parent_id": "943958403070439515",
+    "topic": "A multi-purpose compiled programming language. https://github.com/marlinlang/",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "214175690793287680",
+        "type": 1,
+        "allow": "0",
+        "deny": "268566528"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "806042581112324127",
+    "last_message_id": "952464559057293312",
+    "type": 0,
+    "name": "starlight-waffle",
+    "position": 117,
+    "parent_id": "745791509290418187",
+    "topic": "Javascript engine: https://starlight-js.github.io/\nScheme bytecode VM & JIT: https://github.com/playXE/Waffle-Scheme",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "806042676868284426",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "806745551957000192",
+    "last_message_id": "954756033245499432",
+    "type": 0,
+    "name": "pave",
+    "position": 96,
+    "parent_id": "943958403070439515",
+    "topic": "https://github.com/Pave-lang language for processing large data sets (eventually)",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "529951815752482816",
+        "type": 1,
+        "allow": "0",
+        "deny": "268566528"
+      }
+    ],
+    "last_pin_timestamp": "2021-02-04T15:11:18.473000+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "808025990298075225",
+    "last_message_id": "965965379761496105",
+    "type": 0,
+    "name": "minivm",
+    "position": 92,
+    "parent_id": "943958403070439515",
+    "topic": "MiniVM https://github.com/FastVM/minivm",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "814185869279887400",
+        "type": 1,
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "808025534721687593",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      }
+    ],
+    "last_pin_timestamp": "2021-02-26T18:01:28+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "810556720148512828",
+    "last_message_id": "965741120845918249",
+    "type": 0,
+    "name": "mlatu",
+    "position": 93,
+    "parent_id": "943958403070439515",
+    "topic": "mlatu is a declarative concatenative programming language based on term rewriting as an evaluation model\nhttps://github.com/mlatu-lang/mlatu",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "758341137563516988",
+        "type": 1,
+        "allow": "0",
+        "deny": "268566528"
+      }
+    ],
+    "last_pin_timestamp": "2021-09-20T12:35:50+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "810992891693367326",
+    "last_message_id": "958948160020041849",
+    "type": 0,
+    "name": "bluc",
+    "position": 46,
+    "parent_id": "946608691912802354",
+    "topic": "Blu C (pronounced \"blue c\"), a low to high level systems programming language. Similar to D. \nGithub: https://github.com/johnmschneider/BluC \nDiscord: https://discord.gg/fpZc5aW2wC",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "530602338532982796",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "810993060368482355",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      }
+    ],
+    "last_pin_timestamp": "2021-04-11T03:34:17+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "812042853390876765",
+    "last_message_id": "966189510843047996",
+    "type": 0,
+    "name": "peridot",
+    "position": 97,
+    "parent_id": "943958403070439515",
+    "topic": "A fast functional language based on two level type theory\nhttps://github.com/eashanhatti/peridot",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      }
+    ],
+    "last_pin_timestamp": "2022-03-23T23:32:21+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "817856315804090398",
+    "last_message_id": "962403379659800646",
+    "type": 0,
+    "name": "fiber",
+    "position": 61,
+    "parent_id": "530604963911696404",
+    "topic": "[fiber is out of date, working on migrating]\nThe language is called the Algebraic System for Computation (ASC).\nIt's a systems programming language inspired by cool things that Idris, ATS, Common Lisp, and C have.\nThere's no implementation or website currently because I'm trying to formalize everything before I implement like ML (and not like Algol-68).",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "817856560331882557",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "818024873158901760",
+    "last_message_id": "939390107255984148",
+    "type": 0,
+    "name": "silica",
+    "position": 112,
+    "parent_id": "745791509290418187",
+    "topic": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "662683886006042624",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "530618628647944203",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "818024517137596446",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      }
+    ],
+    "last_pin_timestamp": "2021-03-25T12:48:35+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "818272597225242674",
+    "last_message_id": "966321859903766559",
+    "type": 0,
+    "name": "klaxon-wotpp",
+    "position": 83,
+    "parent_id": "943958403070439515",
+    "topic": "Klaxon is a stack based language focused on minimalism that compiles to assembly. https://github.com/Jackojc/klaxon",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "818272728917737513",
+        "type": 0,
+        "allow": "536882192",
+        "deny": "0"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "662683886006042624",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      }
+    ],
+    "last_pin_timestamp": "2021-03-08T00:24:12+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "818392931983425546",
+    "last_message_id": "951936761850888292",
+    "type": 0,
+    "name": "pretzel-cbr-\ud83e\udd68",
+    "position": 103,
+    "parent_id": "943958403070439515",
+    "topic": "Pretzel is an object-oriented programming language that aims to fix stuff i dislike about other programming languages. The main inspirations behind Pretzel include Go, Python, Swift, Java, C#, Kotlin and #gwion. It runs on the CBR bytecode VM. Both the compiler and the runtime are still in progress.",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "818393997356564492",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "887757776275800075",
+        "type": 1,
+        "allow": "0",
+        "deny": "268566528"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "818637019881668619",
+    "last_message_id": "966259755893014528",
+    "type": 0,
+    "name": "butter",
+    "position": 48,
+    "parent_id": "946608691912802354",
+    "topic": "a tasty language for building efficient software\n- repository: https://github.com/neverRare/butter\n- document: https://github.com/neverRare/butter/blob/master/doc/README.md",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "951333951430078514",
+        "type": 0,
+        "allow": "536882192",
+        "deny": "0"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      }
+    ],
+    "last_pin_timestamp": "2022-04-19T22:53:19+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "825091849207021608",
+    "last_message_id": "931132996059291698",
+    "type": 0,
+    "name": "voice-text-2",
+    "position": 31,
+    "parent_id": "530598290417385476",
+    "topic": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "0"
+      },
+      {
+        "id": "884405006290276382",
+        "type": 1,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "828056593605984287",
+    "last_message_id": "965476645668540488",
+    "type": 0,
+    "name": "cthulhu",
+    "position": 55,
+    "parent_id": "946608691912802354",
+    "topic": "compiler https://github.com/Apache-HB/ctulang\nvscode plugin https://github.com/apache-hb/ctu-vscode",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "828055926656860180",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      }
+    ],
+    "last_pin_timestamp": "2021-04-04T18:52:39+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "831001391769059338",
+    "last_message_id": "965094248389160980",
+    "type": 0,
+    "name": "pinafore",
+    "position": 100,
+    "parent_id": "943958403070439515",
+    "topic": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "831001043084509235",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      }
+    ],
+    "last_pin_timestamp": "2021-04-12T03:55:01+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "831315789210058792",
+    "last_message_id": "966316141343559771",
+    "type": 0,
+    "name": "documentation",
+    "position": 27,
+    "parent_id": "530604433076125699",
+    "topic": "For talking about references, guides, tutorials, and any kind of technical writing",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "68608"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "836493188326883328",
+    "last_message_id": "960154414885240912",
+    "type": 0,
+    "name": "mod-notes",
+    "position": 4,
+    "parent_id": "740120712571781161",
+    "topic": "A place for the mods to store long-term notes, reminders, and information on important group resolutions.",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "530602338532982796",
+        "type": 0,
+        "allow": "117824",
+        "deny": "0"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "843628427260329994",
+    "last_message_id": "964988310533582878",
+    "type": 0,
+    "name": "jet\u2708",
+    "position": 79,
+    "parent_id": "530604963911696404",
+    "topic": "Performant Language for Developing Consistent Native, Mobile App, and Web Applications\nGithub: https://github.com/The-NextGen-Project/jet\nDiscord: https://discord.gg/8cnuzFxZGx",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "843628042088611870",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      }
+    ],
+    "last_pin_timestamp": "2021-10-17T20:14:27+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "843707905479016448",
+    "last_message_id": "963436638254555218",
+    "type": 0,
+    "name": "kithare",
+    "position": 135,
+    "parent_id": "946758536489230347",
+    "topic": "A C++/Python like multi-paradigm statically typed programming language.\n\n**Website**: https://www.kithare.de\n**GitHub**: https://github.com/Kithare/Kithare\n**Discord**: https://discord.gg/hXvY8CzS7A",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "843707622254182430",
+        "type": 0,
+        "allow": "536882192",
+        "deny": "0"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "831731222543728690",
+        "type": 1,
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "last_pin_timestamp": "2021-05-17T23:34:41+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "847014270922391563",
+    "last_message_id": "954759428270325881",
+    "type": 0,
+    "name": "aec",
+    "position": 37,
+    "parent_id": "946608691912802354",
+    "topic": "ArithmeticExpressionCompiler, the low-level programming language with syntax inspired by SmallBasic and Ada. Currently can target x86 and WebAssembly. http://flatassembler.github.io/AEC_specification\nGitHub: https://github.com/FlatAssembler/AECforWebAssembly.git",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "847014059223416834",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      },
+      {
+        "id": "519156504310579201",
+        "type": 1,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "847533570436366407",
+    "last_message_id": "947903093738197032",
+    "type": 0,
+    "name": "riff",
+    "position": 108,
+    "parent_id": "745791509290418187",
+    "topic": "Riff is a dynamically-typed general-purpose programming language designed primarily for prototyping and command-line usage. \n\nWebsite: https://riff.cx\nPlayground: https://riff.run\nGitHub: https://github.com/riff-lang/riff",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "414677507107979265",
+        "type": 1,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "last_pin_timestamp": "2021-07-05T22:01:34+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "848339346233753610",
+    "last_message_id": "963920429670600754",
+    "type": 0,
+    "name": "inko",
+    "position": 75,
+    "parent_id": "530604963911696404",
+    "topic": "The Inko programming language  | Users marked as \"bot\" are Matrix users.",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "848338842892107786",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "309408702530846730",
+        "type": 1,
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "851203853188726794",
+    "last_message_id": "958011164829315112",
+    "type": 0,
+    "name": "evie",
+    "position": 60,
+    "parent_id": "530604963911696404",
+    "topic": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "851203718472269874",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "857168425108111391",
+    "last_message_id": "965658033281708043",
+    "type": 0,
+    "name": "rpl",
+    "position": 109,
+    "parent_id": "745791509290418187",
+    "topic": "Stack-based, and reverse polish notation programming language\nRepo: https://github.com/NishiOwO/rpl\nRepo of Example Programs: https://github.com/NishiOwO/rpl-examples\nPackage manager: https://github.com/c0repwn3r/rpkg",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "857167891521470485",
+        "type": 0,
+        "allow": "536882192",
+        "deny": "0"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "850867383048208414",
+        "type": 1,
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      }
+    ],
+    "last_pin_timestamp": "2021-11-20T17:58:55+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "861700032922124328",
+    "last_message_id": "966136972601077780",
+    "type": 0,
+    "name": "ren",
+    "position": 106,
+    "parent_id": "745791509290418187",
+    "topic": "https://ren-lang.github.io \u2013 Ren is a functional, immutable-by-default, dynamically typed scripting language. Combining productive functional features such as tagged unions and pattern matching with the freedom of JavaScript, Ren strikes a pragmatic balance between safety and flexibility.",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "861699656382808124",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "last_pin_timestamp": "2021-09-13T08:58:53+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "863150579416170517",
+    "last_message_id": "961239531489722429",
+    "type": 0,
+    "name": "strictly",
+    "position": 118,
+    "parent_id": "745791509290418187",
+    "topic": "Declarative language for creating webcomponents https://github.com/strictly-lang/compiler",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "863150193301913601",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      }
+    ],
+    "last_pin_timestamp": "2021-07-09T21:22:41+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "867920825582518312",
+    "last_message_id": "965915206620442624",
+    "type": 0,
+    "name": "jssat",
+    "position": 80,
+    "parent_id": "530604963911696404",
+    "topic": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "867920019139489802",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      }
+    ],
+    "last_pin_timestamp": "2021-07-23T00:10:36+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "875804027131146270",
+    "last_message_id": "965680694183464960",
+    "type": 0,
+    "name": "klak",
+    "position": 129,
+    "parent_id": "946758536489230347",
+    "topic": "dynamically typed, stack oriented language. https://github.com/marekmaskarinec/klak",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "231028390155649034",
+        "type": 1,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "875804372876013578",
+        "type": 0,
+        "allow": "536882192",
+        "deny": "0"
+      }
+    ],
+    "last_pin_timestamp": "2021-08-13T18:16:14+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "877594178752770078",
+    "last_message_id": "964268688863801364",
+    "type": 0,
+    "name": "foolang",
+    "position": 64,
+    "parent_id": "530604963911696404",
+    "topic": "Smalltalk-inspired language for quiet enjoyment. https://foolang.org/",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "877594206229643355",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      }
+    ],
+    "last_pin_timestamp": "2021-08-18T17:22:25+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "884942286516027413",
+    "last_message_id": "965610943381905439",
+    "default_auto_archive_duration": 4320,
+    "type": 0,
+    "name": "insitux",
+    "position": 76,
+    "parent_id": "530604963911696404",
+    "topic": "S-expr language written in TypeScript for use within a Roblox game called Deadline.\nhttps://insitux.github.io/\nhttps://discord.gg/w3Fc4YZ9Qw\nInvoke the bot by sending any message starting with (, \\`(, or ```clj\\n(",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "884941787439988788",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "884405006290276382",
+        "type": 1,
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      }
+    ],
+    "last_pin_timestamp": "2022-04-18T13:53:09+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "886660619783274497",
+    "last_message_id": "951836840212717598",
+    "type": 0,
+    "name": "regularc",
+    "position": 105,
+    "parent_id": "745791509290418187",
+    "topic": "Matches using default Perl Regexes C89 code (no preprocessor) and generates llvm in a single pass. Also have a goal to recompile Ghidra output. https://github.com/6a4h8/regularc",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "886660012510969887",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "890315854938521610",
+    "type": 4,
+    "name": "beginners",
+    "position": 3,
+    "parent_id": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "0"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ]
+  },
+  {
+    "id": "890316125815058462",
+    "last_message_id": "966134920214896750",
+    "type": 0,
+    "name": "beginners-theory",
+    "position": 19,
+    "parent_id": "890315854938521610",
+    "topic": "No theory question is too basic for this channel!",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "0"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      }
+    ],
+    "last_pin_timestamp": "2021-11-10T23:15:12+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "892546216401960970",
+    "last_message_id": "966055176144322620",
+    "type": 0,
+    "name": "synthium",
+    "position": 119,
+    "parent_id": "745791509290418187",
+    "topic": "A systems programming language. \nGitHub: https://github.com/andre-1337/synthiumc\nDiscord: https://discord.gg/6DmYzh7Bhb",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "892546465493315584",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      }
+    ],
+    "last_pin_timestamp": "2022-03-09T11:39:23+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "899280626056851466",
+    "last_message_id": "965915172705288272",
+    "type": 0,
+    "name": "solid",
+    "position": 115,
+    "parent_id": "745791509290418187",
+    "topic": "https://github.com/Teln0/SolidC",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "847257099083972650",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "900480745011818516",
+    "last_message_id": "965206664791851028",
+    "type": 0,
+    "name": "mercenary-\u2694",
+    "position": 134,
+    "parent_id": "946758536489230347",
+    "topic": "https://github.com/sampersand/Mercenary/",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "900478958003449876",
+        "type": 0,
+        "allow": "536882192",
+        "deny": "0"
+      }
+    ],
+    "last_pin_timestamp": "2021-10-24T05:47:15+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "901267415244083230",
+    "last_message_id": "966006044629303298",
+    "default_auto_archive_duration": 4320,
+    "type": 0,
+    "name": "egel",
+    "position": 59,
+    "parent_id": "530604963911696404",
+    "topic": "Egel is a small scripting language based on eager combinatorial rewriting. Read more here:  https://egel-lang.github.io/",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "901267516645589022",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "902798799402057729",
+    "last_message_id": "934528715805818982",
+    "type": 0,
+    "name": "poly",
+    "position": 101,
+    "parent_id": "943958403070439515",
+    "topic": "A compiler for an ML with higher-rank polymorphism, typeclasses, and SML-inspired syntax. https://github.com/mb64/poly",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "902798445419585566",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      }
+    ],
+    "last_pin_timestamp": "2021-10-27T06:06:50+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "904428128234004540",
+    "last_message_id": "966128771637866537",
+    "type": 0,
+    "name": "poth",
+    "position": 102,
+    "parent_id": "943958403070439515",
+    "topic": "A simple statically-typed stack-oriented programming language.\n\nhttps://github.com/ryaangu/poth",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "904427846154457169",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      }
+    ],
+    "last_pin_timestamp": "2021-10-31T20:43:55+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "907982300703236117",
+    "last_message_id": "963447006603391036",
+    "default_auto_archive_duration": 1440,
+    "type": 0,
+    "name": "gerku-skp",
+    "position": 67,
+    "parent_id": "530604963911696404",
+    "topic": "Concatenative Combinatory Logic as a Functional programming language https://github.com/rdentato/gerku\nSimple skip/parse library in C: https://github.com/rdentato/skp",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "907982003205460028",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      }
+    ],
+    "last_pin_timestamp": "2022-01-07T17:06:41+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "908820663018594314",
+    "last_message_id": "944129981565521951",
+    "type": 0,
+    "name": "kamilalisp",
+    "position": 81,
+    "parent_id": "943958403070439515",
+    "topic": "https://github.com/kspalaiologos/kamilalisp - A lazily evaluated, functional, flexible and concise Lisp.",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "908820434923966525",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "909275724995780658",
+    "last_message_id": "965333962648076358",
+    "type": 0,
+    "name": "dyppyl-set",
+    "position": 58,
+    "parent_id": "530604963911696404",
+    "topic": "Dyppyl -A parsing library & suite of compiler construction tools written in modern C++. [https://github.com/aradarbel10/Dyppyl]\nSet - A recreational math-based dynamic programming language [https://github.com/aradarbel10/SetLang]",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "909275572390203402",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "last_pin_timestamp": "2022-03-09T07:50:04+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "909557458345820191",
+    "last_message_id": "965300171854446592",
+    "type": 0,
+    "name": "hyper",
+    "position": 73,
+    "parent_id": "530604963911696404",
+    "topic": "Github: https://github.com/SkillerRaptor/HyperLang | Syntax-Highlighting: https://github.com/SkillerRaptor/Hyper-Syntax",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "909557219270492160",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "911201337088294972",
+    "last_message_id": "953646721156677645",
+    "type": 0,
+    "name": "cats-playing-genesys",
+    "position": 140,
+    "parent_id": "946758536489230347",
+    "topic": "Fox's bot experiment https://github.com/slavfox/CatsPlayingGenesys",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "911201622573609010",
+    "last_message_id": "965936611374276649",
+    "type": 0,
+    "name": "foxs-test-channel",
+    "position": 66,
+    "parent_id": "946758536489230347",
+    "topic": "https://github.com/slavfox/CatsPlayingGenesys",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "912473510033649674",
+    "last_message_id": "956684615513419826",
+    "type": 0,
+    "name": "brevis",
+    "position": 137,
+    "parent_id": "946758536489230347",
+    "topic": "Brevis is designed to be portable and concise above all else, with current targets being C89 and ES3. https://brevislang.org https://git.sr.ht/~mushchlo/brevis",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "912473586302849106",
+        "type": 0,
+        "allow": "536882192",
+        "deny": "0"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      }
+    ],
+    "last_pin_timestamp": "2021-11-22T22:54:23+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "912596651137441812",
+    "last_message_id": "956546531811553301",
+    "type": 0,
+    "name": "honey-roasted",
+    "position": 70,
+    "parent_id": "530604963911696404",
+    "topic": "https://honeyroasted.github.io/  | Honey Roasted - A programming language design toolset for the JVM",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "912596698017173504",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "last_pin_timestamp": "2021-11-23T08:17:04+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "913799509123928064",
+    "last_message_id": "948222644820541460",
+    "type": 0,
+    "name": "piccolo",
+    "position": 98,
+    "parent_id": "943958403070439515",
+    "topic": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913799209285746699",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "last_pin_timestamp": "2022-01-24T04:39:34+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "914740605282832414",
+    "last_message_id": "966206699839037440",
+    "type": 0,
+    "name": "cuik",
+    "position": 56,
+    "parent_id": "946608691912802354",
+    "topic": "Cuik is a modern C compiler build to be fast and efficient (early in development)\n\nCompiler: https://github.com/RealNeGate/Cuik",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "914740676518883338",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      }
+    ],
+    "last_pin_timestamp": "2022-02-25T23:14:16+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "919584599351377970",
+    "last_message_id": null,
+    "type": 2,
+    "name": "Lightning Talks",
+    "position": 2,
+    "parent_id": "530598290417385476",
+    "bitrate": 64000,
+    "user_limit": 0,
+    "rtc_region": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "558375108608"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "919586547622379550",
+    "last_message_id": "919756570655588403",
+    "type": 0,
+    "name": "12-12-2021",
+    "position": 34,
+    "parent_id": "919756982351691796",
+    "topic": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "377957124096"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "68608"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "919756982351691796",
+    "type": 4,
+    "name": "Archived Lightning Talks",
+    "position": 6,
+    "parent_id": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ]
+  },
+  {
+    "id": "919991280682016778",
+    "last_message_id": "936944382341419019",
+    "type": 0,
+    "name": "inu\ud83d\udc15",
+    "position": 77,
+    "parent_id": "530604963911696404",
+    "topic": "Discuss everything about inu. https://seoushi.dynu.net/sean/inulang . If you are new I'd highly recommend reading the README.md and Roadmap.md .",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "919991110959530024",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "920783172885684264",
+    "last_message_id": "940371483493036032",
+    "type": 0,
+    "name": "ylilisp",
+    "position": 128,
+    "parent_id": "745791509290418187",
+    "topic": "YliLisp is the to-be scripting language of my work-in-progress of Ylikuutio game engine. https://github.com/nrz/ylikuutio/blob/master/doc/ylilisp.txt",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "504041356675514380",
+        "type": 1,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "920785606865485824",
+    "last_message_id": "958761392175972354",
+    "type": 0,
+    "name": "axis",
+    "position": 42,
+    "parent_id": "946608691912802354",
+    "topic": "A high-level low-level systems language. https://github.com/hannes-harnisch/Axis",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "920782875912175646",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "930044986450382858",
+    "last_message_id": "944735343566000138",
+    "type": 0,
+    "name": "silver-project",
+    "position": 113,
+    "parent_id": "745791509290418187",
+    "topic": "https://github.com/Frostn1/Silver-Project",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "932017259143135292",
+    "last_message_id": "966208548650496120",
+    "type": 0,
+    "name": "ananke",
+    "position": 39,
+    "parent_id": "946608691912802354",
+    "topic": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "316645617759682560",
+        "type": 1,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "932413937507504198",
+    "last_message_id": "962390680385232916",
+    "type": 0,
+    "name": "flame\ud83d\udd25",
+    "position": 63,
+    "parent_id": "530604963911696404",
+    "topic": "data oriented programming language!",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "932414017203503174",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "last_pin_timestamp": "2022-02-26T21:29:56+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "932841899914571787",
+    "last_message_id": "966061918127267900",
+    "type": 0,
+    "name": "madlib",
+    "position": 90,
+    "parent_id": "943958403070439515",
+    "topic": "A practical functional language with accent on simplicity and point free style: https://github.com/madlib-lang/madlib",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "932841999122432011",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      }
+    ],
+    "last_pin_timestamp": "2022-02-20T17:51:27+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "934406875091468359",
+    "last_message_id": "966334657803206706",
+    "type": 0,
+    "name": "cognate",
+    "position": 54,
+    "parent_id": "946608691912802354",
+    "topic": "A human-readable quasi-concatenative language\nhttps://github.com/stavromulabeta/cognate",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "934406583222403102",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      },
+      {
+        "id": "944580980361015358",
+        "type": 1,
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "last_pin_timestamp": "2022-02-20T10:05:19+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "936084277500706816",
+    "last_message_id": "961667366188634143",
+    "type": 0,
+    "name": "hook",
+    "position": 71,
+    "parent_id": "530604963911696404",
+    "topic": "https://github.com/fabiosvm/hook-lang - A simple, small, cross-platform, scripting language",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "936084584041414676",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "937347459154345994",
+    "last_message_id": "937347947383889931",
+    "type": 0,
+    "name": "1-30-2022",
+    "position": 33,
+    "parent_id": "919756982351691796",
+    "topic": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "274877908992"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "939897792636268595",
+    "last_message_id": "966299575449190421",
+    "type": 0,
+    "name": "khasm",
+    "position": 82,
+    "parent_id": "943958403070439515",
+    "topic": "Area for the khasm programming language. Feel free to AMA if you want.\nhttps://gitlab.com/jake-87/khasm-lang/",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "939897843718717481",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      }
+    ],
+    "last_pin_timestamp": "2022-02-06T20:32:55+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "940362945458757692",
+    "last_message_id": "965356919567032340",
+    "type": 0,
+    "name": "toby",
+    "position": 131,
+    "parent_id": "946758536489230347",
+    "topic": "Toby is a GPGPU array language",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "940362975963926558",
+        "type": 0,
+        "allow": "536882192",
+        "deny": "0"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "940436193185759232",
+    "last_message_id": "965286814367776829",
+    "type": 0,
+    "name": "carbon",
+    "position": 50,
+    "parent_id": "946608691912802354",
+    "topic": "an elegant interpreted language for the simplistic programmer\ngithub: https://github.com/shadowninja55/carbon",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "940436243416760320",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      }
+    ],
+    "last_pin_timestamp": "2022-02-09T19:26:29+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "942890684480892958",
+    "last_message_id": "961244026248511528",
+    "type": 0,
+    "name": "aardwolf-devforesoteric",
+    "position": 36,
+    "parent_id": "946608691912802354",
+    "topic": "**Fard** is a **transpiled/interpreted** **esoteric** programming language. It's a **functional** programming language (as of now), but it will support **object oriented programming patterns** in the future. Fardlang is written in **python**, but can **transpile** to other **faster** languages.\n\n\n**Disclaimer: Fardlang is not recommended for use in production.**",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "942890736838410250",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      }
+    ],
+    "last_pin_timestamp": "2022-02-20T10:59:03+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "943270924176744549",
+    "last_message_id": "965837710814228501",
+    "type": 0,
+    "name": "imp",
+    "position": 74,
+    "parent_id": "530604963911696404",
+    "topic": "Imp is a statically typed and compiled scripting language with the goal of increasing programmer confidence. github.com/imp-language/imp",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "943271006976495646",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "last_pin_timestamp": "2022-02-16T04:11:34+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "943958403070439515",
+    "type": 4,
+    "name": "Projects K-P",
+    "position": 9,
+    "parent_id": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ]
+  },
+  {
+    "id": "943959181537456138",
+    "last_message_id": "965931884838289458",
+    "type": 0,
+    "name": "cyclic",
+    "position": 57,
+    "parent_id": "946608691912802354",
+    "topic": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "943958894856781925",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      }
+    ],
+    "last_pin_timestamp": "2022-02-17T20:30:35+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "944077709007523870",
+    "last_message_id": "964198922916597842",
+    "type": 0,
+    "name": "arum",
+    "position": 41,
+    "parent_id": "946608691912802354",
+    "topic": "Arum is an interpreted language written in TypeScript with Nearley and Moo. It was recently revived after the main dev had some burnout",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "944078496081260574",
+        "type": 0,
+        "allow": "17716748304",
+        "deny": "0"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "728101795427254312",
+        "type": 1,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      }
+    ],
+    "last_pin_timestamp": "2022-02-18T06:17:34+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "944179967279890442",
+    "last_message_id": "958729628032303164",
+    "type": 0,
+    "name": "chili",
+    "position": 53,
+    "parent_id": "946608691912802354",
+    "topic": "General-purpose programming language focused on productivity, expressiveness and joy of programming.\n\nRepository: https://github.com/r0nsha/chili-lang\nDiscord: https://discord.gg/pYKHmbEc\nVSCode plugin: https://github.com/r0nsha/chili-vscode",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "944179545609752587",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "946314302330122291",
+    "last_message_id": "949653425052856370",
+    "type": 0,
+    "name": "sibyl",
+    "position": 111,
+    "parent_id": "745791509290418187",
+    "topic": "https://github.com/omnisci3nce/sibyl-lang",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "946314369304784916",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "last_pin_timestamp": "2022-02-26T13:27:40+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "946608691912802354",
+    "type": 4,
+    "name": "Projects A-C",
+    "position": 7,
+    "parent_id": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ]
+  },
+  {
+    "id": "946758536489230347",
+    "type": 4,
+    "name": "Archive",
+    "position": 11,
+    "parent_id": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ]
+  },
+  {
+    "id": "946955705804525579",
+    "last_message_id": "966157906309447680",
+    "type": 0,
+    "name": "prowl",
+    "position": 104,
+    "parent_id": "943958403070439515",
+    "topic": "https://github.com/UberPyro/prowl/tree/parser - A stack/logic language based on parsers.",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "946955712402174022",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "last_pin_timestamp": "2022-04-16T03:30:20+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "949692913632309318",
+    "last_message_id": "965957158749487154",
+    "type": 0,
+    "name": "toadml",
+    "position": 123,
+    "parent_id": "745791509290418187",
+    "topic": "ToadML is an exercise in implementing a compiler incrementally from an ML like language to x86_64.\n\nRepo: https://github.com/DasNaCl/toadml\n\nWebsite: https://toadml.com/\n\nI regularly stream the development of it at least each Saturday, 9AM (CET).  Check the schedule first, though: https://toadml.com/schedule\nStreams: https://www.youtube.com/playlist?list=PLIE7bEVjHIawQnGvxkwiSFOJq7PuafGsb\n\nDev. Blog-Posts: https://toadml.com/categories/book/\n\nDiscord to get pinged when stream starts: https://discord.gg/M83XjAvZGS",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "949692366665707540",
+        "type": 0,
+        "allow": "536882192",
+        "deny": "0"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      }
+    ],
+    "last_pin_timestamp": "2022-03-16T00:35:24+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "950752179067715585",
+    "last_message_id": "964366634917724220",
+    "type": 0,
+    "name": "casc-cogworkvm",
+    "position": 51,
+    "parent_id": "946608691912802354",
+    "topic": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "950752182091796510",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      }
+    ],
+    "last_pin_timestamp": "2022-04-10T09:19:29+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "950977875367043072",
+    "last_message_id": "956059227737169920",
+    "type": 0,
+    "name": "kvaiha",
+    "position": 138,
+    "parent_id": "946758536489230347",
+    "topic": "Kvaiha is a ruby like language with a sound type system",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "950977878001078312",
+        "type": 0,
+        "allow": "536882192",
+        "deny": "0"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      }
+    ],
+    "last_pin_timestamp": "2022-03-09T06:22:00+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "951509646206705804",
+    "last_message_id": "965891309216882718",
+    "type": 0,
+    "name": "lorxu-\ud83e\udd8a",
+    "position": 130,
+    "parent_id": "946758536489230347",
+    "topic": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "951509649109164092",
+        "type": 0,
+        "allow": "536882192",
+        "deny": "0"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "952044244179243049",
+    "last_message_id": "962122279595147294",
+    "type": 0,
+    "name": "lax",
+    "position": 136,
+    "parent_id": "946758536489230347",
+    "topic": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "952044246649671762",
+        "type": 0,
+        "allow": "536882192",
+        "deny": "0"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      }
+    ],
+    "last_pin_timestamp": "2022-03-13T07:11:54+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "952655961921822741",
+    "last_message_id": "964315141812396032",
+    "type": 0,
+    "name": "thistle",
+    "position": 122,
+    "parent_id": "745791509290418187",
+    "topic": "https://github.com/thistle-lang/thistle",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "268566528"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "952655964790718484",
+        "type": 0,
+        "allow": "536882192",
+        "deny": "0"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "953387081533624361",
+    "last_message_id": "961426871734652968",
+    "type": 0,
+    "name": "llama",
+    "position": 87,
+    "parent_id": "943958403070439515",
+    "topic": "A high-level functional language: https://github.com/jawadcode/llama",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "953387084062806079",
+        "type": 0,
+        "allow": "536879120",
+        "deny": "0"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      }
+    ],
+    "last_pin_timestamp": "2022-03-15T20:21:51+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "955108535451127808",
+    "last_message_id": "959874685275865140",
+    "type": 0,
+    "name": "lightning-talk-speakers",
+    "position": 17,
+    "parent_id": "530603515958263809",
+    "topic": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "914147623450054666",
+        "type": 0,
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "955891609478778962",
+    "last_message_id": "964209287838695424",
+    "type": 0,
+    "name": "palm",
+    "position": 95,
+    "parent_id": "943958403070439515",
+    "topic": "https://github.com/PalmLang/Palm",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "955891612335104040",
+        "type": 0,
+        "allow": "536882192",
+        "deny": "0"
+      }
+    ],
+    "last_pin_timestamp": "2022-03-22T18:20:21+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "955922232574627931",
+    "last_message_id": "966328139989012581",
+    "type": 0,
+    "name": "barrel",
+    "position": 44,
+    "parent_id": "946608691912802354",
+    "topic": "An esoteric golfing language heavily inspired by CJam, Factor and K. Repo: https://github.com/the-cellar/barrel. Racket package: https://pkgd.racket-lang.org/pkgn/package/barrel.",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "955922237771362395",
+        "type": 0,
+        "allow": "536882192",
+        "deny": "0"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "last_pin_timestamp": "2022-04-09T02:34:53+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "956317812379484180",
+    "last_message_id": "966135193624793161",
+    "type": 0,
+    "name": "h-hat",
+    "position": 69,
+    "parent_id": "530604963911696404",
+    "topic": "H-hat: a quantum programming language. Read more at https://hhat.cdagger.com",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "956317815298740285",
+        "type": 0,
+        "allow": "536882192",
+        "deny": "0"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      }
+    ],
+    "last_pin_timestamp": "2022-04-04T15:53:33+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "957997918751711252",
+    "last_message_id": "961203930677801021",
+    "type": 0,
+    "name": "hudson",
+    "position": 72,
+    "parent_id": "530604963911696404",
+    "topic": "Repo: https://git.sr.ht/~awsmith/hudson\nGitHub changelog: https://github.com/Andrew-William-Smith/hudson-changelog",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "957997922211995658",
+        "type": 0,
+        "allow": "536882192",
+        "deny": "0"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "959874843254329354",
+    "last_message_id": "959889226164477976",
+    "type": 0,
+    "name": "4-4-2022",
+    "position": 32,
+    "parent_id": "919756982351691796",
+    "topic": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "274877908992"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "959879096349913168",
+    "last_message_id": "963856945876459620",
+    "type": 0,
+    "name": "ltpl",
+    "position": 89,
+    "parent_id": "943958403070439515",
+    "topic": "A declarative text processing language. \nhttps://github.com/Me43489/ltpl",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "959879100841988226",
+        "type": 0,
+        "allow": "536882192",
+        "deny": "0"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      }
+    ],
+    "last_pin_timestamp": "2022-04-02T18:19:49+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "959968306842968084",
+    "last_message_id": "964343841224286298",
+    "type": 0,
+    "name": "langite",
+    "position": 86,
+    "parent_id": "943958403070439515",
+    "topic": "An expression based language\nhttps://github.com/HomelikeBrick42/Langite",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "959968309451829318",
+        "type": 0,
+        "allow": "536882192",
+        "deny": "0"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "960218942859784242",
+    "last_message_id": "966167076408537118",
+    "default_auto_archive_duration": 10080,
+    "type": 0,
+    "name": "fortissimo\ud83c\udfbc",
+    "position": 65,
+    "parent_id": "530604963911696404",
+    "topic": "Fortissimo (.ff) is a gradually typed (well, I'm working towards that part), C-based language currently under construction.  My goal is to create a language suitable for Web 3.0 development with a bytecode VM that \"compiles\" to WASM in the browser (figuring out what to do with it natively) and friendly to JavaScript developers yet robust.  The goal with syntax is to be concise and minimalistic when it is sensible to do so.\n\nGitHub Repository: https://github.com/johngkathe/FortissimoLanguage\nDiscord Server: \n\nNOTE: Updates to the Repo are currently saved in the Releases section of the language's main page.  If you want the most recent version of the language, look there.",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "960218946630455306",
+        "type": 0,
+        "allow": "536882192",
+        "deny": "0"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "961598522329813043",
+    "last_message_id": "961818652229926912",
+    "type": 0,
+    "name": "ballpoint",
+    "position": 43,
+    "parent_id": "946608691912802354",
+    "topic": "A graphics focused language (WIP).\n\nRepo: https://github.com/giovanidandrade/ballpoint",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "961598525119025223",
+        "type": 0,
+        "allow": "536882192",
+        "deny": "0"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "962138254377881670",
+    "last_message_id": "964081161506816070",
+    "type": 0,
+    "name": "l5",
+    "position": 85,
+    "parent_id": "943958403070439515",
+    "topic": "A high-level, multi-paradigm programming language designed for OSdev.",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "962138257599135824",
+        "type": 0,
+        "allow": "536882192",
+        "deny": "0"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "963907085152706560",
+    "last_message_id": "966324584087437392",
+    "type": 0,
+    "name": "wizardry",
+    "position": 126,
+    "parent_id": "745791509290418187",
+    "topic": "Website: https://wizardry-pl.github.io/\nDocs: https://github.com/Wizardry-PL/Wizardry\nCompiler: https://github.com/Wizardry-PL/Wizard",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "963907088856272976",
+        "type": 0,
+        "allow": "536882192",
+        "deny": "0"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "964633826036973638",
+    "last_message_id": "965337522974625853",
+    "type": 0,
+    "name": "sasquach",
+    "position": 110,
+    "parent_id": "745791509290418187",
+    "topic": "https://gitlab.com/pentlander/sasquach",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "964633828981342298",
+        "type": 0,
+        "allow": "536882192",
+        "deny": "0"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "964709933511737374",
+    "last_message_id": "964972139662954517",
+    "type": 0,
+    "name": "korou\ud83d\udd25",
+    "position": 84,
+    "parent_id": "943958403070439515",
+    "topic": "Korou is an experimental programming language that uses continuations to implement algebraic effects.",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "964709936573612062",
+        "type": 0,
+        "allow": "536882192",
+        "deny": "0"
+      }
+    ],
+    "last_pin_timestamp": "2022-04-16T02:53:58+00:00",
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "965196802485805056",
+    "last_message_id": "966330544742891590",
+    "type": 0,
+    "name": "taxi",
+    "position": 121,
+    "parent_id": "745791509290418187",
+    "topic": "Github: https://github.com/PacketSender642/taxi-lang",
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "965196805606342676",
+        "type": 0,
+        "allow": "536882192",
+        "deny": "0"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "965197684631826452",
+    "last_message_id": "966238842740936724",
+    "type": 0,
+    "name": "channelbot-logs",
+    "position": 9,
+    "parent_id": "740120712571781161",
+    "topic": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "530602338532982796",
+        "type": 0,
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "530618628647944203",
+        "type": 0,
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  },
+  {
+    "id": "965976282582114355",
+    "last_message_id": "966328633012649986",
+    "type": 0,
+    "name": "fox-fucking-with-channelbot",
+    "position": 141,
+    "parent_id": "740120712571781161",
+    "topic": null,
+    "guild_id": "530598289813536771",
+    "permission_overwrites": [
+      {
+        "id": "530602338532982796",
+        "type": 0,
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "530598289813536771",
+        "type": 0,
+        "allow": "0",
+        "deny": "1024"
+      },
+      {
+        "id": "730476421633278113",
+        "type": 0,
+        "allow": "0",
+        "deny": "268436496"
+      },
+      {
+        "id": "913705256532201483",
+        "type": 0,
+        "allow": "0",
+        "deny": "2112"
+      },
+      {
+        "id": "823183090649268256",
+        "type": 1,
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "530618628647944203",
+        "type": 0,
+        "allow": "1024",
+        "deny": "0"
+      },
+      {
+        "id": "437808476106784770",
+        "type": 1,
+        "allow": "0",
+        "deny": "2048"
+      },
+      {
+        "id": "767048409667469333",
+        "type": 0,
+        "allow": "535529258064",
+        "deny": "0"
+      }
+    ],
+    "rate_limit_per_user": 0,
+    "nsfw": false
+  }
+]

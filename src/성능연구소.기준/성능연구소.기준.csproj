@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="../Shared.targets"/>
+  
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\성능연구소.DSharpPlus\성능연구소.DSharpPlus.csproj" />
+    <ProjectReference Include="..\성능연구소.Discord.Net\성능연구소.Discord.Net.csproj" />
+    <ProjectReference Include="..\성능연구소.Disqord\성능연구소.Disqord.csproj" />
+    <ProjectReference Include="..\성능연구소.Remora\성능연구소.Remora.csproj" />
+    <ProjectReference Include="..\성능연구소\성능연구소.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BenchmarkDotNet" Version="0.13.1" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />
+  </ItemGroup>
+
+</Project>

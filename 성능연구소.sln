@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5B0AF753-C50D-45F0-96F7-84DF06B9E9EB}"
+	ProjectSection(SolutionItems) = preProject
+		src\Shared.targets = src\Shared.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "성능연구소.DSharpPlus", "src\성능연구소.DSharpPlus\성능연구소.DSharpPlus.csproj", "{B192CCD9-E819-49B1-B1AA-9BAC4D0470EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "성능연구소.Discord.Net", "src\성능연구소.Discord.Net\성능연구소.Discord.Net.csproj", "{98D16F2A-D20D-49E3-A72D-F9511AA65D3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "성능연구소.Disqord", "src\성능연구소.Disqord\성능연구소.Disqord.csproj", "{A838C3A8-3755-45C1-825D-B5E6993B2261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "성능연구소.Remora", "src\성능연구소.Remora\성능연구소.Remora.csproj", "{E8ED6169-C88E-4DCB-9627-1F1661BB1A45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "성능연구소", "src\성능연구소\성능연구소.csproj", "{EC0FA577-9251-4B3C-81C4-9684AF7F79EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "성능연구소.기준", "src\성능연구소.기준\성능연구소.기준.csproj", "{6DD0FC48-EFEF-4DDB-A93A-403062D4F5A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B192CCD9-E819-49B1-B1AA-9BAC4D0470EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B192CCD9-E819-49B1-B1AA-9BAC4D0470EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B192CCD9-E819-49B1-B1AA-9BAC4D0470EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B192CCD9-E819-49B1-B1AA-9BAC4D0470EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98D16F2A-D20D-49E3-A72D-F9511AA65D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98D16F2A-D20D-49E3-A72D-F9511AA65D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98D16F2A-D20D-49E3-A72D-F9511AA65D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98D16F2A-D20D-49E3-A72D-F9511AA65D3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A838C3A8-3755-45C1-825D-B5E6993B2261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A838C3A8-3755-45C1-825D-B5E6993B2261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A838C3A8-3755-45C1-825D-B5E6993B2261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A838C3A8-3755-45C1-825D-B5E6993B2261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8ED6169-C88E-4DCB-9627-1F1661BB1A45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8ED6169-C88E-4DCB-9627-1F1661BB1A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8ED6169-C88E-4DCB-9627-1F1661BB1A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8ED6169-C88E-4DCB-9627-1F1661BB1A45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC0FA577-9251-4B3C-81C4-9684AF7F79EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0FA577-9251-4B3C-81C4-9684AF7F79EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0FA577-9251-4B3C-81C4-9684AF7F79EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0FA577-9251-4B3C-81C4-9684AF7F79EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DD0FC48-EFEF-4DDB-A93A-403062D4F5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DD0FC48-EFEF-4DDB-A93A-403062D4F5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DD0FC48-EFEF-4DDB-A93A-403062D4F5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DD0FC48-EFEF-4DDB-A93A-403062D4F5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B192CCD9-E819-49B1-B1AA-9BAC4D0470EB} = {5B0AF753-C50D-45F0-96F7-84DF06B9E9EB}
+		{98D16F2A-D20D-49E3-A72D-F9511AA65D3D} = {5B0AF753-C50D-45F0-96F7-84DF06B9E9EB}
+		{A838C3A8-3755-45C1-825D-B5E6993B2261} = {5B0AF753-C50D-45F0-96F7-84DF06B9E9EB}
+		{E8ED6169-C88E-4DCB-9627-1F1661BB1A45} = {5B0AF753-C50D-45F0-96F7-84DF06B9E9EB}
+		{EC0FA577-9251-4B3C-81C4-9684AF7F79EA} = {5B0AF753-C50D-45F0-96F7-84DF06B9E9EB}
+		{6DD0FC48-EFEF-4DDB-A93A-403062D4F5A5} = {5B0AF753-C50D-45F0-96F7-84DF06B9E9EB}
+	EndGlobalSection
+EndGlobal

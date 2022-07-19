@@ -1,0 +1,44 @@
+{
+  "t": "READY",
+  "s": 1,
+  "op": 0,
+  "d": {
+    "v": 9,
+    "user_settings": {},
+    "user": {
+      "verified": true,
+      "username": "Institute of Performance Research",
+      "mfa_enabled": true,
+      "id": "111111111111111111",
+      "flags": 0,
+      "email": null,
+      "discriminator": "1111",
+      "bot": true,
+      "avatar": "11111111111111111111111111111111"
+    },
+    "session_type": "normal",
+    "session_id": "11111111111111111111111111111111",
+    "relationships": [],
+    "private_channels": [],
+    "presences": [],
+    "guilds": [
+      {
+        "unavailable": true,
+        "id": "111111111111111111"
+      }
+    ],
+    "guild_join_requests": [],
+    "geo_ordered_rtc_regions": [
+      "rotterdam",
+      "milan",
+      "madrid",
+      "stockholm",
+      "finland"
+    ],
+    "application": {
+      "id": "111111111111111111",
+      "flags": 827392
+    },
+    "_trace": []
+  }
+}
