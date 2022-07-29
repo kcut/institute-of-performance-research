@@ -56,6 +56,9 @@ Goal is objective measurement and test end to end for improval of .NET library e
 | WebSocketLifecycleLargeGuildCreate | Job-IHORUM |            1 | 6,003,956.660 μs | 91,207.7798 μs | 85,315.8138 μs | 217000.0000 | 79000.0000 | 1,973,344 KB |
 | WebSocketLifecycleSmallGuildCreate | Job-IHORUM |            1 |    59,789.081 μs |  3,375.3438 μs |  9,952.2773 μs |   1000.0000 |  1000.0000 |    11,917 KB |
 
+Remore design not easy abstract - use patching, replace `ClientWebSocket` with no-op stub. Should provide best-case performance no network call, instant return only copy bytes.
+Attempt contact library development for necessary abstract, can follow progress [Remora.Discord#224](https://github.com/Nihlus/Remora.Discord/issues/224) issue here.
+
 ### DSharpPlus
 
 |                   Method | Mean | Error |
